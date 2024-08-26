@@ -37,7 +37,11 @@
 - Các file store procedure, function
 - DBD = 32767
 - Kiểm tra xem database này lưu ở đâu
-  - `SELECT 'ResourceDB' As 'Database Name', NAME as Database file, FILENAME As Database file location' FROM sys.sysatifies WHERE DBB = 3267`
+  - `SELECT 'ResourceDB' AS 'Database Name', 
+       NAME AS 'Database file', 
+       FILENAME AS 'Database file location' 
+FROM sys.sysaltfiles 
+WHERE DBID = 3267;`
 - Kết quả sau khi chạy câu lệnh trên.
 
 ## Điều gì cần lưu ý
