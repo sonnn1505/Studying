@@ -6,6 +6,8 @@
 - [3. Neighbourhood](#neighbourhood)
 - [4. Education](#education)
 - [5. Job](#job)
+- [6. Cold Weather](#coldweather)
+- [7. Laughing](#laughing)
 
   
 
@@ -121,6 +123,7 @@
 	   - At the moment, I am not actively looking to change my job. I enjoy the challenges and opportunities that come 
     	with being a software engineer. However, I am always open to new opportunities that could help me grow professionally.
 	
+<a name="coldweather"></a>
 ##	COLD WEATHER
 	
 ###	1. **Have you ever been in very cold weather? [When?]**
@@ -138,7 +141,8 @@
 ###	4. **Would you prefer to live in a hot place or a cold place? [Why?]**
 	   - I would prefer to live in a warm place because I enjoy outdoor activities and find it more comfortable
     	. However, I do appreciate visiting colder places occasionally for a change of scenery and to experience different climates.
-	
+
+ <a name="laughing"></a>
 ##	LAUGHING
 ###	1. **What kinds of things make you laugh?**
 	- I find humor in a variety of things, such as funny movies, jokes, and even everyday situations that have a humorous twist
