@@ -1,86 +1,117 @@
-	1. Part 1
-	Family
-	1. Do you have a large family or a small family?
-		 I have not big family , it is just my wife, my son, my daughter and me. We are very close-nit and spending time together. 
+# 1. Part 1
+##	Family
+###	1. Do you have a large family or a small family?
+	I have not big family , it is just my wife, my son, my daughter and me. We are very close-nit and spending time together. 
 	
-	2. Can you tell me something about them?
-		My wife is an accountant , my son, and my daughter still in school . We all have different interests , but we support each other in everything we do. My children's are very cute and I have always encouraged them to pursue their dreams. 
-	3. How much time do you manage to spend with members of your family?
-		I try to spend as much as possible with my family , especially on weekends .we have dinner together every night , which is a great time to catch up on each other's.
+###	2. Can you tell me something about them?
+	My wife is an accountant , my son, and my daughter still in school . We all have different interests , but we support each
+ 	other in everything we do.
+ 	My children's are very cute and I have always encouraged them to pursue their dreams. 
+###	3. How much time do you manage to spend with members of your family?
+	I try to spend as much as possible with my family , especially on weekends .we have dinner together every night 
+ 	, which is a great time to catch up on each other's.
 		
-	4. What sorts of things do you like to do together?
-		We enjoy a variety of activities together . We often go for walks on the park, watch movies , and sometime play board games. On special occasions , we like to go out for dinner or have a barbecue at home.
-	5. Did/Do you get on well with your family? [Why?]
-		Yes, I get on very well with my family. We have a strong bond and communicate openly with each other. This has helped us resolve any conflicts quickly and maintain a harmonious (hò . Mâu. Nìa/ sự hài lòng)relationship. I think the key is that we respect each other’s opinions and support one another.
+###	4. What sorts of things do you like to do together?
+	We enjoy a variety of activities together . We often go for walks on the park, watch movies , and sometime play board games
+ 	. On special occasions 
+ 	, we like to go out for dinner or have a barbecue at home.
+###	5. Did/Do you get on well with your family? [Why?]
+	Yes, I get on very well with my family. We have a strong bond and communicate openly with each other.
+ 	This has helped us resolve any conflicts quickly and maintain a harmonious (hò . Mâu. Nìa/ sự hài lòng)relationship.
+  	I think the key is that we respect each other’s opinions and support one another.
  
-	Accommodation
-	1 What kind of accommodation do you live in? What’s it like?
-		I live in a small apartment in the city center. It's a one-bedroom unit with a normal living room, a fully-equipped kitchen , and a balcony that offers a great view of the city skyline. The building has amenities like gym , a swimming pool , and a small garden .
-	2 Have you always lived there?
-		No, I haven't always lived here . I moved to this apartment about  5 years ago. Before that , I lived in countryside .
+##	Accommodation
+###	1 What kind of accommodation do you live in? What’s it like?
+	I live in a small apartment in the city center. It's a one-bedroom unit with a normal living room, a fully-equipped kitchen 
+ 	, and a balcony that offers a great view of the city skyline. The building has amenities like gym , a swimming pool
+  	, and a small garden.
+###	2 Have you always lived there?
+	No, I haven't always lived here . I moved to this apartment about  5 years ago. Before that , I lived in countryside .
 	
-	3 What are the main advantages of this [accommodation]?
-		The main advantages of my current accommodation are its location and the amenities . Being in the city center , it's very convenient for work and social activitiesThe amenities like the gym and pool are great for staying active without having to leave the building.
-	4 What changes would you like to make to improve it?
-		If I could make some changes, I would probably add more storage space and maybe upgrade the kitchen appliances . Also, it would be nice to have a larger balcony to enjoy the view even more.
+###	3 What are the main advantages of this [accommodation]?
+	The main advantages of my current accommodation are its location and the amenities . 
+ 	Being in the city center , it's very convenient for work and social activitiesThe amenities like the gym and pool are great for
+  	staying active without having to leave the building.
+###	4 What changes would you like to make to improve it?
+	If I could make some changes, I would probably add more storage space and maybe upgrade the kitchen appliances 
+ 	. Also, it would be nice to have a larger balcony to enjoy the view even more.
 	
-	5 Would it be easy for you to move to another accommodation?
-		I wouldn't be too difficult to move to another accommodation, but it would depend on finding a place that offers the same level  of convenience and amenities. Moving can be a bit stressful, but with proper planning , it can be managed.
+###	5 Would it be easy for you to move to another accommodation?
+	I wouldn't be too difficult to move to another accommodation, but it would depend on finding a place that offers
+ 	the same level  of convenience and amenities. Moving can be a bit stressful, but with proper planning , it can be managed.
 		
-	6 Do many people in your country live in such accommodation?
-		Yes, many people in my country , especially in urban areas , live in apartment similar to mine. With the increasing population and urbanization, apartments have become a popular choice due to their convenience and the facilities they offer.
+###	6 Do many people in your country live in such accommodation?
+	Yes, many people in my country , especially in urban areas , live in apartment similar to mine. With the increasing 
+ 	population and urbanization, apartments have become a popular choice due to their convenience and the facilities they offer.
        
-	Neighbourhood
-	1. Which part of town do you live in?
-		I live in Ward 5, which is a bustling area in Ho Chi Minh City. It’s known for its vibrant street life and diverse community.
+##	Neighbourhood
+###	1. Which part of town do you live in?
+	I live in Ward 5, which is a bustling area in Ho Chi Minh City. It’s known for its vibrant street life and diverse community.
 	
-	2. What’s it like?
-		The neighborhood is lively and full of energy. There are always people out and about, and the streets are lined with shops, cafes, and street food vendors. It’s a mix of modern buildings and traditional houses, giving it a unique charm.
+###	2. What’s it like?
+	The neighborhood is lively and full of energy. There are always people out and about, and the streets are lined with shops
+ 	, cafes, and street food vendors. It’s a mix of modern buildings and traditional houses, giving it a unique charm.
 	
-	3. What kind of shops are there in your neighborhood?
-		There are a variety of shops in my neighborhood, including convenience stores, clothing boutiques, electronics shops, and a few supermarkets. Additionally, there are many local markets where you can buy fresh produce and other goods.
+###	3. What kind of shops are there in your neighborhood?
+	There are a variety of shops in my neighborhood, including convenience stores, clothing boutiques, electronics shops
+ 	, and a few supermarkets. Additionally, there are many local markets where you can buy fresh produce and other goods.
 	
-	4. Do you get along well with your neighbors?
-		Yes, I get along well with my neighbors. We often greet each other and sometimes have small chats. There’s a strong sense of community, and people are generally friendly and helpful.
+###	4. Do you get along well with your neighbors?
+	Yes, I get along well with my neighbors. We often greet each other and sometimes have small chats
+ 	. There’s a strong sense of community, and people are generally friendly and helpful.
 	
-	5. What’s difficult about living there?
-		One of the challenges of living in my neighborhood is the noise. Since it’s a busy area, there’s a lot of traffic and street noise, especially during peak hours. Additionally, finding parking can be difficult due to the high density of people and vehicles
+###	5. What’s difficult about living there?
+	One of the challenges of living in my neighborhood is the noise. Since it’s a busy area, there’s a lot of traffic
+  	and street noise, especially during peak hours. Additionally, finding parking can be difficult due to the high 
+   	density of people and vehicles
 	
-	Education(student):
-	1. What do you study?
-		I study computer science.
+##	Education(student):
+###	1. What do you study?
+	I study computer science.
 	
-	2. What is special about this subject?
-		Computer science is special because it combines creativity with problem-solving. It allows you to build innovative solutions and understand how technology shapes our world. The field is constantly evolving, which makes it exciting and full of opportunities.
+###	2. What is special about this subject?
+	Computer science is special because it combines creativity with problem-solving. It allows you to build innovative
+ 	solutions and understand how technology shapes our world. The field is constantly evolving, which makes it exciting
+  	and full of opportunities.
 	
-	3. Is there anything you find difficult about it?
-		Yes, some aspects can be quite challenging. For example, understanding complex algorithms and data structures can be difficult. Additionally, keeping up with the rapid pace of technological advancements requires continuous learning and adaptation.
+###	3. Is there anything you find difficult about it?
+	Yes, some aspects can be quite challenging. For example, understanding complex algorithms and data structures can be 
+ 	difficult. Additionally, keeping up with the rapid pace of technological advancements requires continuous learning 
+  	and adaptation.
 	
-	4. Where do you study? What’s your university/college like?
-		I study at the University of Technology. The campus is modern and well-equipped, with state-of-the-art labs and a comprehensive library. The university also offers a variety of extracurricular activities and clubs, which provide a well-rounded educational experience.
-	JOB
-	1. **What’s your job?**
+###	4. Where do you study? What’s your university/college like?
+	I study at the University of Technology. The campus is modern and well-equipped, with state-of-the-art labs and 
+ 	a comprehensive library. The university also offers a variety of extracurricular activities and clubs, which provide
+  	a well-rounded educational experience.
+##	JOB
+###	1. **What’s your job?**
 	   - I am a software engineer in the information technology industry.
 	
-	2. **Is it a common job in your country?**
-	   - Yes, being a software engineer is quite common in my country. The IT industry is growing rapidly, and there is a high demand for skilled professionals in this field.
+###	2. **Is it a common job in your country?**
+	   - Yes, being a software engineer is quite common in my country. The IT industry is growing rapidly
+    	, and there is a high demand for skilled professionals in this field.
 	
-	3. **What are your working hours like?**
-	   - My working hours are typically from 9 AM to 6 PM, but sometimes I have to work extra hours to meet project deadlines or resolve urgent issues.
+###	3. **What are your working hours like?**
+	   - My working hours are typically from 9 AM to 6 PM, but sometimes I have to work extra hours to meet
+    	project deadlines or resolve urgent issues.
 	
-	4. **Do you get a lot of vacation and off time?**
-	   - I get a reasonable amount of vacation time, usually around 15-20 days per year, along with public holidays. However, the amount of off time can vary depending on the workload and project requirements.
+###	4. **Do you get a lot of vacation and off time?**
+	   - I get a reasonable amount of vacation time, usually around 15-20 days per year, along with public holidays
+    	. However, the amount of off time can vary depending on the workload and project requirements.
 	
-	5. **Are you thinking of changing your job?**
-	   - At the moment, I am not actively looking to change my job. I enjoy the challenges and opportunities that come with being a software engineer. However, I am always open to new opportunities that could help me grow professionally.
+###	5. **Are you thinking of changing your job?**
+	   - At the moment, I am not actively looking to change my job. I enjoy the challenges and opportunities that come 
+    	with being a software engineer. However, I am always open to new opportunities that could help me grow professionally.
 	
-	COLD WEATHER
+##	COLD WEATHER
 	
-	1. **Have you ever been in very cold weather? [When?]**
-	   - Yes, I have experienced very cold weather. For example, I visited Sapa in northern Vietnam during the winter, and it was quite chilly, with temperatures dropping close to freezing.
+###	1. **Have you ever been in very cold weather? [When?]**
+	   - Yes, I have experienced very cold weather. For example, I visited Sapa in northern Vietnam during the winter
+    , and it was quite chilly, with temperatures dropping close to freezing.
 	
-	2. **How often is the weather cold where you come from?**
-	   - In Ho Chi Minh City, the weather is generally warm and tropical year-round. It rarely gets cold here, even during the winter months.
+###	2. **How often is the weather cold where you come from?**
+	   - In Ho Chi Minh City, the weather is generally warm and tropical year-round. It rarely gets cold here
+    , even during the winter months.
 	
 	3. **Are some parts of your country colder than others? [Which parts?]**
 	   - Yes, northern Vietnam, especially areas like Sapa and Hanoi, can get quite cold in the winter. The central and southern regions, including Ho Chi Minh City, are much warmer.
