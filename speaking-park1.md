@@ -1,4 +1,13 @@
-# 1. Part 1
+# MUC LUC
+[I. Part1](#part1)
+- [1. Family](#family)
+- [2. Accommodation](#accommodation)
+- 
+  
+
+-----------------------------------------------------------------------------------------------------------------------------
+<a name="part1"></a>
+<a name="family"></a>
 ##	Family
 ###	1. Do you have a large family or a small family?
 	I have not big family , it is just my wife, my son, my daughter and me. We are very close-nit and spending time together. 
@@ -19,7 +28,8 @@
 	Yes, I get on very well with my family. We have a strong bond and communicate openly with each other.
  	This has helped us resolve any conflicts quickly and maintain a harmonious (hò . Mâu. Nìa/ sự hài lòng)relationship.
   	I think the key is that we respect each other’s opinions and support one another.
- 
+
+<a name="accommodation"></a>
 ##	Accommodation
 ###	1 What kind of accommodation do you live in? What’s it like?
 	I live in a small apartment in the city center. It's a one-bedroom unit with a normal living room, a fully-equipped kitchen 
