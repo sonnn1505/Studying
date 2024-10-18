@@ -8,6 +8,9 @@
 - [5. Job](#job)
 - [6. Cold Weather](#coldweather)
 - [7. Laughing](#laughing)
+- [8. Keeping In Contract With People](#keepingincontractwithpeople)
+- [9. Daily Routine](#dailyroutine)
+- [10 Visitors](#visitors)
 
   
 
@@ -162,6 +165,7 @@
     	something funny and can be a momentary reaction, whereas happiness is a more sustained and deeper emotional state.
      	However, laughter can certainly contribute to feelings of happiness.
 	
+<a name="keepingincontractwithpeople"></a>
 ##	Keeping in contact with people
 ###	1. **How do you usually contact your friends? [Why?]**
 	- I usually contact my friends through messaging apps like WhatsApp or social media platforms like Facebook and Instagram
@@ -182,6 +186,7 @@
      	, social media, and messaging apps. The change is largely due to technological advancements that have made it easier and faster 
       	to connect with others.
 	
+<a name="dailyroutine"></a>
 ##	 **Daily Routine**
 ###	1. **What would you like to change in your daily routine?**
 	   - I would like to incorporate more exercise into my daily routine to stay healthy and energized.
@@ -198,7 +203,8 @@
 ###	4. **What is the balance of work/study and free time in your normal day?**
 	- On weekdays, most of my time is dedicated to work, but I make sure to have a few hours of free time in the evening
     	. Weekends have a better balance with more free time for personal activities.
-	
+
+<a name="visitors"></a>
 ##	 Visitors
 ###	1. **What would you suggest a visitor should see and do in your country?**
 	- I would suggest visiting famous landmarks like Ha Long Bay, the ancient town of Hoi An, and the bustling city of Ho Chi Minh City
