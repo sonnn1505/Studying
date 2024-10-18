@@ -1,13 +1,17 @@
+
 # MUC LUC
 [I. Part1](#part1)
-- [1. Family](#family)
-- [2. Accommodation](#accommodation)
-- 
+- [1. Family](#idxfamily)
+- [2. Accommodation](#idxaccommodation)
+- [3. Neighbourhood](#neighbourhood)
+- [4. Education](#education)
+- [5. Job](#job)
+
   
 
 -----------------------------------------------------------------------------------------------------------------------------
 <a name="part1"></a>
-<a name="family"></a>
+<a name="idxfamily"></a>
 ##	Family
 ###	1. Do you have a large family or a small family?
 	I have not big family , it is just my wife, my son, my daughter and me. We are very close-nit and spending time together. 
@@ -29,7 +33,7 @@
  	This has helped us resolve any conflicts quickly and maintain a harmonious (hò . Mâu. Nìa/ sự hài lòng)relationship.
   	I think the key is that we respect each other’s opinions and support one another.
 
-<a name="accommodation"></a>
+<a name="idxaccommodation"></a>
 ##	Accommodation
 ###	1 What kind of accommodation do you live in? What’s it like?
 	I live in a small apartment in the city center. It's a one-bedroom unit with a normal living room, a fully-equipped kitchen 
@@ -53,7 +57,8 @@
 ###	6 Do many people in your country live in such accommodation?
 	Yes, many people in my country , especially in urban areas , live in apartment similar to mine. With the increasing 
  	population and urbanization, apartments have become a popular choice due to their convenience and the facilities they offer.
-       
+
+<a name="neighbourhood"></a>
 ##	Neighbourhood
 ###	1. Which part of town do you live in?
 	I live in Ward 5, which is a bustling area in Ho Chi Minh City. It’s known for its vibrant street life and diverse community.
@@ -74,7 +79,8 @@
 	One of the challenges of living in my neighborhood is the noise. Since it’s a busy area, there’s a lot of traffic
   	and street noise, especially during peak hours. Additionally, finding parking can be difficult due to the high 
    	density of people and vehicles
-	
+
+<a name="education"></a>	
 ##	Education(student):
 ###	1. What do you study?
 	I study computer science.
@@ -93,6 +99,8 @@
 	I study at the University of Technology. The campus is modern and well-equipped, with state-of-the-art labs and 
  	a comprehensive library. The university also offers a variety of extracurricular activities and clubs, which provide
   	a well-rounded educational experience.
+
+<a name="job"></a>
 ##	JOB
 ###	1. **What’s your job?**
 	   - I am a software engineer in the information technology industry.
