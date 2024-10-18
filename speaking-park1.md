@@ -11,7 +11,12 @@
 - [8. Keeping In Contract With People](#keepingincontractwithpeople)
 - [9. Daily Routine](#dailyroutine)
 - [10 Visitors](#visitors)
-
+- [11 Festivals](#destivals)
+- [12 Dancing](#dancing)
+- [13 Musical Instruments](#musicalinstruments)
+- [14 Trafficwhereyoulive](#trafficwhereyoulive)
+- [15 Your Friends](#yourfriends)
+- [16 Food And Cooking](#foodandcooking)
   
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -220,7 +225,7 @@
 ###	4. **In what ways has tourism changed your country?**
 	- Tourism has brought economic benefits and increased cultural exchange. However, it has also led to challenges like environmental 
     	impact and the need for sustainable tourism practices.
-	
+<a name="festivals"></a>	
 ### 	Festivals
 	1. **Tell me about the most important festival in your country.**
 	- The most important festival in Vietnam is Tet, the Lunar New Year. It is a time for family reunions, honoring ancestors
@@ -235,7 +240,8 @@
 	
 ###	4. **Do you think festivals are important for a country? [Why?]**
 	   - Yes, festivals are important as they preserve cultural heritage, bring people together, and provide a sense of identity and community.
-	
+
+ <a name="dancing"></a>
 ## 	Dancing
 ###	1. **Do you enjoy dancing? [Why/Why not?]**
 	- Yes, I enjoy dancing because it is a fun way to express myself and stay active.
@@ -250,7 +256,8 @@
 ###	4. **Do you think that traditional dancing will be popular in the future? [Why/Why not?]**
 	- I believe traditional dancing will remain popular as it is an important part of cultural heritage 
     	and continues to be celebrated during festivals and cultural events.
-	
+
+<a name="musicalinstruments"></a>
 ## 	Musical Instruments
 ###	1. **Which instrument do you like listening to most? [Why?]**
 	- I enjoy listening to the piano the most because of its versatility and the range of emotions it can convey.
@@ -268,7 +275,7 @@
 	- Learning to play an instrument without a teacher can be challenging but not impossible. With online tutorials
     	, instructional videos, and practice, one can make significant progress. However
      	, having a teacher can provide personalized guidance and faster improvement.
-	
+<a name="trafficwhereyoulive"></a>	
 ## 	Traffic Where You Live
 ###	1. **How do most people travel to work where you live?**
 	- Most people in Ho Chi Minh City travel to work by motorbike, which is the most common mode of transportation here.
@@ -284,7 +291,8 @@
 ###	4. **How would you reduce the traffic problems in your area?**
 	- Improving public transportation, encouraging carpooling, and developing better infrastructure could 
     	help reduce traffic problems. Promoting the use of bicycles and walking for short distances could also make a difference.
-	
+
+<a name="yourfriends"></a>	
 ## 	Your Friends
 ###	1. **Do you prefer to have one particular friend or a group of friends? [Why?]**
 	- I prefer to have a group of friends because it allows for diverse interactions and activities.
@@ -307,7 +315,8 @@
 ###	6. **Do you think it’s important to keep in contact with friends you knew as a child? [Why/Why not?]**
 	- Yes, it's important to keep in contact with childhood friends because they have known you for a long time and share many memories
     	. These friendships can provide a sense of continuity and support.
-	
+
+<a name="foodandcooking"></a>
 ## 	Food and Cooking
 ###	1. **What kinds of food do you like to eat?**
 	- I enjoy a variety of foods, including Vietnamese cuisine, Italian pasta, and Japanese sushi.
