@@ -24,45 +24,56 @@
 <a name="idxfamily"></a>
 ##	Family
 ###	1. Do you have a large family or a small family?
-	I have not big family , it is just my wife, my son, my daughter and me. We are very close-nit and spending time together. 
+	I have not big family , it is just my wife, my son
+ 	, my daughter and me.We are very close-nit and spending time together. 
 	
 ###	2. Can you tell me something about them?
-	My wife is an accountant , my son, and my daughter still in school . We all have different interests , but we support each
- 	other in everything we do.
- 	My children's are very cute and I have always encouraged them to pursue their dreams. 
+	My wife is an accountant , my son, and my daughter still in school 
+ 	We all have different interests
+  	but we support each other in everything we do.
+ 	My children's are very cute and I have always encouraged them to pursue their dreams.
+  
 ###	3. How much time do you manage to spend with members of your family?
-	I try to spend as much as possible with my family , especially on weekends .we have dinner together every night 
- 	, which is a great time to catch up on each other's.
+	I try to spend as much as possible with my family
+ 	especially on weekends .we have dinner together every night 
+ 	which is a great time to catch up on each other's.
 		
 ###	4. What sorts of things do you like to do together?
-	We enjoy a variety of activities together . We often go for walks on the park, watch movies , and sometime play board games
- 	. On special occasions 
- 	, we like to go out for dinner or have a barbecue at home.
+	We enjoy a variety of activities together
+ 	We often go for walks on the park, watch movies, and sometime play board games
+ 	. On special occasions. we like to go out for dinner or have a barbecue at home
+
 ###	5. Did/Do you get on well with your family? [Why?]
-	Yes, I get on very well with my family. We have a strong bond and communicate openly with each other.
+	Yes, I get on very well with my family
+ 	We have a strong bond and communicate openly with each other.
  	This has helped us resolve any conflicts quickly and maintain a harmonious (hò . Mâu. Nìa/ sự hài lòng)relationship.
   	I think the key is that we respect each other’s opinions and support one another.
 
 <a name="idxaccommodation"></a>
 ##	Accommodation
 ###	1 What kind of accommodation do you live in? What’s it like?
-	I live in a small apartment in the city center. It's a one-bedroom unit with a normal living room, a fully-equipped kitchen 
- 	, and a balcony that offers a great view of the city skyline. The building has amenities like gym , a swimming pool
+	I live in a small apartment in the city center.
+ 	It's a one-bedroom unit with a normal living room, a fully-equipped kitchen 
+ 	, and a balcony that offers a great view of the city skyline
+  	. The building has amenities like gym , a swimming pool
   	, and a small garden.
 ###	2 Have you always lived there?
-	No, I haven't always lived here . I moved to this apartment about  5 years ago. Before that , I lived in countryside .
+	No, I haven't always lived here
+ 	I moved to this apartment about  5 years ago. Before that , I lived in countryside .
 	
 ###	3 What are the main advantages of this [accommodation]?
 	The main advantages of my current accommodation are its location and the amenities . 
- 	Being in the city center , it's very convenient for work and social activitiesThe amenities like the gym and pool are great for
+ 	Being in the city center,
+  	it's very convenient for work and social activitiesThe amenities like the gym and pool are great for
   	staying active without having to leave the building.
+   
 ###	4 What changes would you like to make to improve it?
 	If I could make some changes, I would probably add more storage space and maybe upgrade the kitchen appliances 
  	. Also, it would be nice to have a larger balcony to enjoy the view even more.
 	
 ###	5 Would it be easy for you to move to another accommodation?
 	I wouldn't be too difficult to move to another accommodation, but it would depend on finding a place that offers
- 	the same level  of convenience and amenities. Moving can be a bit stressful, but with proper planning , it can be managed.
+ 	the same level  of convenience and amenities. Moving can be a bit stressful, but with proper planning , it can be managed
 		
 ###	6 Do many people in your country live in such accommodation?
 	Yes, many people in my country , especially in urban areas , live in apartment similar to mine. With the increasing 
