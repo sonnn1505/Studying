@@ -419,3 +419,16 @@ you should say:
 - what important things you remember from that year
 - where these things happened
 - and say why you think that year was important.
+### noted:
+2000
+- 18
+
+- 1. Driving certivicate-Eslami insitute
+  2. Start university-Birjand
+
+- 1. Could drive
+  2. University is important
+  3. Met my closest friend there
+  4. start to live independently
+     
+
