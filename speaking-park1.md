@@ -17,9 +17,10 @@
 - [14 Trafficwhereyoulive](#trafficwhereyoulive)
 - [15 Your Friends](#yourfriends)
 - [16 Food And Cooking](#foodandcooking)
+
 [II. Part2](#part2)
 - [1. Talk about an important year in your life](#importantyear)
-- [2. Describle an interesting historic place)(#interestinghistoricplace)
+- [2. Describle an interesting historic place](#interestinghistoricplace)
 
 -----------------------------------------------------------------------------------------------------------------------------
 <a name="part1"></a>
@@ -407,4 +408,14 @@ Some drawbacks include the cost of electricity and the potential for appliances 
 	
 ### 5. Do you think people should use electric appliances more often or less often than they do now? [Why/Why not?]
 I think people should use electric appliances wisely. They should be used to improve efficiency and convenience but not to the extent that it leads to excessive energy consumption or dependency.
-	
+
+<a name="part2"></a>
+# Part 2
+
+<a name="importantyear"></a>
+## Talk about an important year in your life
+you should say:
+	how old you were
+ 	what important things you remember from that year
+  	where these things happened
+and say why you think that year was important.
