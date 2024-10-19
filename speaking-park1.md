@@ -307,112 +307,102 @@ The main industries in Vietnam include agriculture, manufacturing, and services.
 It is relatively easy to travel around Vietnam with various options like buses, trains, and domestic flights. The infrastructure is continuously improving.
 	
 ### 4. Has your country changed much since you were a child?
-	   - Yes, Vietnam has changed significantly with rapid economic growth, urbanization, and improvements in infrastructure and living standards.
+Yes, Vietnam has changed significantly with rapid economic growth, urbanization, and improvements in infrastructure and living standards.
 	
-## 	Colour
-###	1. What’s your favourite colour? [Why?]
-	   - My favourite colour is blue because it is calming and reminds me of the sky and the ocean.
+## Colour
+### 1. What’s your favourite colour? [Why?]
+My favourite colour is blue because it is calming and reminds me of the sky and the ocean.
 	
-###	2. Do you like the same colours now as you did when you were younger? [Why/Why not?]
-	   - Yes, I still like blue, but I have also grown to appreciate other colours like green and grey for their soothing and neutral tones.
+### 2. Do you like the same colours now as you did when you were younger? [Why/Why not?]
+Yes, I still like blue, but I have also grown to appreciate other colours like green and grey for their soothing and neutral tones.
 	
-###	3. What can you learn about a person from the colours they like?
-	   - The colours a person likes can sometimes reflect their personality or mood
-    	. For example, someone who likes bright colours might be more outgoing and energetic, while someone who prefers neutral tones 
-     	might be more calm and reserved.
+### 3. What can you learn about a person from the colours they like?
+The colours a person likes can sometimes reflect their personality or mood. For example, someone who likes bright colours might be more outgoing and energetic, while someone who prefers neutral tones might be more calm and reserved.
 	
-###	4. Do any colours have a special meaning in your culture?
-	   - Yes, in Vietnamese culture, red is considered a lucky colour and is often used during celebrations like Tet (Lunar New Year) 
-    	to symbolize good fortune and happiness.
+### 4. Do any colours have a special meaning in your culture?
+Yes, in Vietnamese culture, red is considered a lucky colour and is often used during celebrations like Tet (Lunar New Year) to symbolize good fortune and happiness.
 	
-## 	Entertainment
-###	1. Do you prefer relaxing at home or going out in the evening? [Why?]
-	   - I prefer relaxing at home because it is a great way to unwind after a busy day. However,
-    	I also enjoy going out occasionally to socialize and experience new things.
+## Entertainment
+### 1. Do you prefer relaxing at home or going out in the evening? [Why?]
+I prefer relaxing at home because it is a great way to unwind after a busy day. However, I also enjoy going out occasionally to socialize and experience new things.
 	
-###	2. When you go out for an evening, what do you like to do?
-	   - When I go out, I like to have dinner with friends, watch a movie, or explore new places like cafes or cultural events.
+### 2. When you go out for an evening, what do you like to do?
+When I go out, I like to have dinner with friends, watch a movie, or explore new places like cafes or cultural events.
 	
-###	3. How popular is this with other people in your country?
-	   - Going out for dinner and socializing is very popular in Vietnam. Many people enjoy spending their evenings at restaurants, cafes
-    	, or entertainment venues.
+### 3. How popular is this with other people in your country?
+Going out for dinner and socializing is very popular in Vietnam. Many people enjoy spending their evenings at restaurants, cafes, or entertainment venues.
 	
-###	4. Is there any kind of entertainment you do not like? [Why/Why not?]
-	   - I am not a big fan of loud nightclubs because I prefer quieter environments where I can have conversations and relax.
+### 4. Is there any kind of entertainment you do not like? [Why/Why not?]
+I am not a big fan of loud nightclubs because I prefer quieter environments where I can have conversations and relax.
 	
-## 	Clothes
-###	1. How important are clothes and fashion to you? [Why/Why not?]
-	- Clothes and fashion are somewhat important to me because they allow me to express my personality and feel confident
-    	. However, comfort is also a key factor in my choices.
+## Clothes
+### 1. How important are clothes and fashion to you? [Why/Why not?]
+Clothes and fashion are somewhat important to me because they allow me to express my personality and feel confident. However, comfort is also a key factor in my choices.
 	
-###	2. What kind of clothes do you dislike? [Why?]
-	   - I dislike clothes that are too tight or uncomfortable because they restrict movement and can be distracting.
+### 2. What kind of clothes do you dislike? [Why?]
+I dislike clothes that are too tight or uncomfortable because they restrict movement and can be distracting.
 	
-###	3. How different are the clothes you wear now from those you wore 10 years ago?
-	   - The clothes I wear now are more refined and suited to my personal style. Ten years ago
-    	, my choices were more influenced by trends and experimentation.
+### 3. How different are the clothes you wear now from those you wore 10 years ago?
+The clothes I wear now are more refined and suited to my personal style. Ten years ago, my choices were more influenced by trends and experimentation.
 	
-###	4. What do you think the clothes we wear say about us?
-	   - The clothes we wear can say a lot about our personality, mood, and even our profession.
-    	They can be a form of self-expression and a way to communicate non-verbally with others.
+### 4. What do you think the clothes we wear say about us?
+The clothes we wear can say a lot about our personality, mood, and even our profession. They can be a form of self-expression and a way to communicate non-verbally with others.
 	
-##	 Fruits
-###	1. Do you eat fruits?
-	   - Yes, I eat fruits regularly.
+## Fruits
+### 1. Do you eat fruits?
+Yes, I eat fruits regularly.
 	
-###	2. How often do you eat fruits?
-	   - I try to eat fruits every day as part of a balanced diet.
+### 2. How often do you eat fruits?
+I try to eat fruits every day as part of a balanced diet.
 	
-###	3. Where do you buy your fruits from?
-	   - I usually buy fruits from local markets or supermarkets.
+### 3. Where do you buy your fruits from?
+I usually buy fruits from local markets or supermarkets.
 	
-###	4. Do you think it’s important for people to eat fruits? [Why/Why not?]
-	   - Yes, it is important for people to eat fruits because they are rich in vitamins, minerals, and fiber, which are essential for good health.
+### 4. Do you think it’s important for people to eat fruits? [Why/Why not?]
+Yes, it is important for people to eat fruits because they are rich in vitamins, minerals, and fiber, which are essential for good health.
 	
-## 	Books
-###	1. Do you like reading books?
-	   - Yes, I enjoy reading books.
+## Books
+### 1. Do you like reading books?
+Yes, I enjoy reading books.
 	
-###	2. What kind of books do you like to read? [Why?]
-	   - I like to read fiction, especially mystery and science fiction, because they are engaging and stimulate my imagination.
+### 2. What kind of books do you like to read? [Why?]
+I like to read fiction, especially mystery and science fiction, because they are engaging and stimulate my imagination.
 	
-###	3. Where do you like to read? [Why?]
-	   - I like to read in a quiet and comfortable place, such as my living room or a cozy cafe, because it helps me focus and enjoy the book.
+### 3. Where do you like to read? [Why?]
+I like to read in a quiet and comfortable place, such as my living room or a cozy cafe, because it helps me focus and enjoy the book.
 	
-###	4. Do others in your family read books too?
-	   - Yes, other members of my family also enjoy reading books.
+### 4. Do others in your family read books too?
+Yes, other members of my family also enjoy reading books.
 	
-###	5. Do you usually buy your books from a special place? [Where?]
-	   - I usually buy my books from bookstores or online retailers.
+### 5. Do you usually buy your books from a special place? [Where?]
+I usually buy my books from bookstores or online retailers.
 	
-## 	Telephone Calls
-###	1. How often are you on the phone?
-	   - I am on the phone several times a day for both personal and work-related calls.
+## Telephone Calls
+### 1. How often are you on the phone?
+I am on the phone several times a day for both personal and work-related calls.
 	
-###	2. Do you like calling friends or family more often? [Why?]
-	   - I like calling family more often because it helps me stay connected with them, especially if we live far apart.
+### 2. Do you like calling friends or family more often? [Why?]
+I like calling family more often because it helps me stay connected with them, especially if we live far apart.
 	
-###	3. Did you call your friends a lot when you were a child?
-	   - Yes, I called my friends a lot when I was a child to make plans and stay in touch.
+### 3. Did you call your friends a lot when you were a child?
+Yes, I called my friends a lot when I was a child to make plans and stay in touch.
 	
-###	4. Do you think children should have to pay their own telephone bills? [Why/Why not?]
-	   - I think it depends on the age and financial situation of the child. It can be a good way to teach responsibility
-    	, but it should be reasonable and not a burden.
+### 4. Do you think children should have to pay their own telephone bills? [Why/Why not?]
+I think it depends on the age and financial situation of the child. It can be a good way to teach responsibility, but it should be reasonable and not a burden.
 	
-## 	Technology at Home/Office
-###	1. How often do you use electric appliances at home/office?
-	   - I use electric appliances daily at both home and office.
+## Technology at Home/Office
+### 1. How often do you use electric appliances at home/office?
+I use electric appliances daily at both home and office.
 	
-###	2. How do you think they help you with your chores?
-	   - Electric appliances make chores easier and faster, such as using a washing machine for laundry or a microwave for heating food.
+### 2. How do you think they help you with your chores?
+Electric appliances make chores easier and faster, such as using a washing machine for laundry or a microwave for heating food.
 	
-###	3. Are there any other advantages?
-	   - Yes, they also improve efficiency and convenience, allowing more time for other activities.
+### 3. Are there any other advantages?
+Yes, they also improve efficiency and convenience, allowing more time for other activities.
 	
-###	4. Are there any drawbacks to using these appliances?
-	   - Some drawbacks include the cost of electricity and the potential for appliances to break down, requiring maintenance or replacement.
+### 4. Are there any drawbacks to using these appliances?
+Some drawbacks include the cost of electricity and the potential for appliances to break down, requiring maintenance or replacement.
 	
-###	5. Do you think people should use electric appliances more often or less often than they do now? [Why/Why not?]
-	   - I think people should use electric appliances wisely. They should be used to improve efficiency and convenience but
-    	not to the extent that it leads to excessive energy consumption or dependency.
+### 5. Do you think people should use electric appliances more often or less often than they do now? [Why/Why not?]
+I think people should use electric appliances wisely. They should be used to improve efficiency and convenience but not to the extent that it leads to excessive energy consumption or dependency.
 	
