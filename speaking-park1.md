@@ -22,32 +22,21 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <a name="part1"></a>
 <a name="idxfamily"></a>
-##	Family
-###	1. Do you have a large family or a small family?
-	I have not big family , it is just my wife, my son
- 	, my daughter and me.We are very close-nit and spending time together. 
-	
-###	2. Can you tell me something about them?
-	My wife is an accountant , my son, and my daughter still in school 
- 	We all have different interests
-  	but we support each other in everything we do.
- 	My children's are very cute and I have always encouraged them to pursue their dreams.
-  
-###	3. How much time do you manage to spend with members of your family?
-	I try to spend as much as possible with my family
- 	especially on weekends .we have dinner together every night 
- 	which is a great time to catch up on each other's.
-		
-###	4. What sorts of things do you like to do together?
-	We enjoy a variety of activities together
- 	We often go for walks on the park, watch movies, and sometime play board games
- 	. On special occasions. we like to go out for dinner or have a barbecue at home
+## Family
+### 1. Do you have a large family or a small family?
+I have a small family; it's just my wife, my son, my daughter, and me. We are very close-knit and spend a lot of time together.
 
-###	5. Did/Do you get on well with your family? [Why?]
-	Yes, I get on very well with my family
- 	We have a strong bond and communicate openly with each other.
- 	This has helped us resolve any conflicts quickly and maintain a harmonious (hò . Mâu. Nìa/ sự hài lòng)relationship.
-  	I think the key is that we respect each other’s opinions and support one another.
+### 2. Can you tell me something about them?
+My wife is an accountant, my son and daughter are still in school. We all have different interests but support each other in everything we do. My children are very cute, and I have always encouraged them to pursue their dreams.
+
+### 3. How much time do you manage to spend with members of your family?
+I try to spend as much time as possible with my family, especially on weekends. We have dinner together every night, which is a great time to catch up on each other’s lives.
+
+### 4. What sorts of things do you like to do together?
+We enjoy a variety of activities together, such as going for walks in the park, watching movies, and playing board games. On special occasions, we like to go out for dinner or have a barbecue at home.
+
+### 5. Do you get on well with your family? [Why?]
+Yes, I get on very well with my family. We have a strong
 
 <a name="idxaccommodation"></a>
 ##	Accommodation
