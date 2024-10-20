@@ -53,7 +53,7 @@ No, I haven't always lived here. I moved to this apartment about  5 years ago. B
 The main advantages of my current accommodation are its location and the amenities . Being in the city center, it's very convenient for work and social activitiesThe amenities like the gym and pool are great for staying active without having to leave the building.
    
 ### 4 What changes would you like to make to improve it?
-If I could make some changes, I would probably add more storage space and maybe upgrade the kitchen appliances. Also, it would be nice to have a larger balcony to enjoy the view even more.
+If I could make some changes, I would probably **/ˈprɒb.ə.bli/**<sub>có lẽ</sub> add more storage space and maybe upgrade the kitchen appliances. Also, it would be nice to have a larger balcony to enjoy the view even more.
 	
 ### 5 Would it be easy for you to move to another accommodation?
 I wouldn't be too difficult to move to another accommodation, but it would depend on finding a place that offers the same level  of convenience and amenities. Moving can be a bit stressful, but with proper planning , it can be managed
