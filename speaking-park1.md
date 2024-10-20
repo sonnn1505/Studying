@@ -36,10 +36,10 @@ My wife is an accountant, my son and daughter are still in school. We all have d
 I try to spend as much time as possible with my family, especially on weekends. We have dinner together every night, which is a great time to catch up on each other’s lives.
 
 ### 4. What sorts of things do you like to do together?
-We enjoy a variety of activities together, such as going for walks in the park, watching movies, and playing board games. On special occasions, we like to go out for dinner or have a barbecue at home.
+We enjoy a variety of activities together, such as going for walks in the park, watching movies, and playing board games. On special occasions ** /əˈkeɪ.ʒən/** <sub>những dịp đặc biệt</sub>, we like to go out for dinner or have a barbecue at home.
 
 ### 5. Do you get on well with your family? [Why?]
-Yes, I get on very well with my family. We have a strong
+Yes, I get on very well with my family. We are close-knit and support each other. we spend quality time together, whether it is during meals or through family trips.
 
 <a name="idxaccommodation"></a>
 ## Accommodation
