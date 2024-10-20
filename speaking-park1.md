@@ -30,7 +30,7 @@
 I have a small family; it's just my wife, my son, my daughter, and me. We are very close-knit and spend a lot of time together.
 
 ### 2. Can you tell me something about them?
-My wife is an accountant, my son and daughter are still in school. We all have different interests but support each other in everything we do. My children are very cute, and I have always encouraged them to pursue their dreams.
+My wife is an accountant, my son and daughter are still in school. We all have different interests but support each other in everything we do. My children are very cute, and I have always encouraged  **/ɪnˈkʌr.ɪdʒd/** them to pursue  **/pəˈsjuː/** their dreams.
 
 ### 3. How much time do you manage to spend with members of your family?
 I try to spend as much time as possible with my family, especially on weekends. We have dinner together every night, which is a great time to catch up on each other’s lives.
