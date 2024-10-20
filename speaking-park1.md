@@ -44,7 +44,7 @@ Yes, I get on very well with my family. We are close-knit and support each other
 <a name="idxaccommodation"></a>
 ## Accommodation
 ### 1 What kind of accommodation do you live in? What’s it like?
-I live in a small apartment in the city center.It's a one-bedroom unit with a normal living room, a fully-equipped kitchen , and a balcony that offers a great view of the city skyline. The building has amenities like gym , a swimming pool, and a small garden.
+I live in a small apartment in the city center.It's a one-bedroom unit with a normal living room, a fully-equipped ** /ɪˈkwɪpt/** <sub>tiện nghi </sub> kitchen , and a balcony that offers a great view of the city skyline. The building has amenities **/əˈmiː.nə.ti/ ** <sub>tiện nghi</sub> like gym , a swimming pool, and a small garden.
 
 ### 2 Have you always lived there?
 No, I haven't always lived here. I moved to this apartment about  5 years ago. Before that , I lived in countryside .
