@@ -20,7 +20,7 @@
 
 [II. Part2](#part2)
 - [1. Talk about an important year in your life](#importantyear)
-- [2. Describle an interesting historic place](#interestinghistoricplace)
+- [2. Describe an interesting historic place](#interestinghistoricplace)
 
 -----------------------------------------------------------------------------------------------------------------------------
 <a name="part1"></a>
@@ -44,7 +44,7 @@ Yes, I get on very well with my family. We are close-knit and support each other
 <a name="idxaccommodation"></a>
 ## Accommodation
 ### 1 What kind of accommodation do you live in? What’s it like?
-I live in a small apartment in the city center. It's a one-bedroom unit with a normal living room, a fully-equipped **/ɪˈkwɪpt/** <sub>đầy đủ thiết bị </sub> kitchen, and a balcony that offers a great view of the city skyline. The building has amenities **/əˈmiː.nə.ti/** <sub>tiện nghi</sub> like a Gym, a swimming pool, and a small garden.
+I live in a small apartment in the city center. It's a one-bedroom unit with a normal living room, a fully-equipped **/ɪˈkwɪpt/** <sub>đầy đủ thiết bị </sub> kitchen, and a balcony that offers a great view of the city skyline. The building has amenities **/əˈmiː.nə.ti/** <sub>tiện nghi</sub> like a gym, a swimming pool, and a small garden.
 
 ### 2 Have you always lived there?
 No, I haven't always lived here. I moved to this apartment about  5 years ago. Before that, I lived in the countryside.
@@ -62,9 +62,9 @@ It wouldn't be too difficult to move to another accommodation, but it would depe
 Yes, many people in my country, especially in urban **/ˈɜː.bən/** <sub> đô thị</sub> areas, live in apartments similar to mine. With the increasing population and urbanization, apartments have become a popular choice due to their convenience and the facilities they offer.
 
 <a name="neighbourhood"></a>
-## Neighbourhood
-### 1. Which part of town do you live in?
-I live in Ward 5, which is a bustling area in Ho Chi Minh City. It’s known for its vibrant street life and diverse community.
+## Neighbourhood **/ˈneɪ.bə.hʊd/** <sub>hàng xóm</sub>
+### 1. Which part of town do you live in? 
+I live in Ward BEN NGHE D1, which is a bustling **/ˈbʌslɪŋ/** <sub>nhộn nhịp</sub> area in Ho Chi Minh City. It’s known for its vibrant **/ˈvībrənt/** <sub>sôi động</sub> street life and diverse **/dəˈvərs/** <sub>phong phú -đa dạng</sub> community.
 	
 ### 2. What’s it like?
 The neighborhood is lively and full of energy. There are always people out and about, and the streets are lined with shops, cafes, and street food vendors. It’s a mix of modern buildings and traditional houses, giving it a unique charm.
