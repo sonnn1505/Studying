@@ -439,6 +439,13 @@ you should say:
 - what you can see there now
 - and explain why this place is interesting
 ### noted:
+Bái Đính Pagoda
+
+- 1. Located in Ninh Binh Province, HN, Viet Nam.
+  2. 90km from my HN Capital, Viet Nam
+  3. to the south
+ 
+- 
 
 
 
