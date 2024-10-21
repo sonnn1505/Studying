@@ -67,16 +67,16 @@ Yes, many people in my country, especially in urban **/ˈɜː.bən/** <sub> đô
 I live in Ward BEN NGHE D1, which is a bustling **/ˈbʌslɪŋ/** <sub>nhộn nhịp</sub> area in Ho Chi Minh City. It’s known for its vibrant **/ˈvībrənt/** <sub>sôi động</sub> street life and diverse **/dəˈvərs/** <sub>phong phú -đa dạng</sub> community.
 	
 ### 2. What’s it like?
-The neighborhood is lively and full of energy. There are always people out and about, and the streets are lined with shops, cafes, and street food vendors. It’s a mix of modern buildings and traditional houses, giving it a unique charm.
+The neighborhood is lively and full of energy **/ˈenərjē/** <sub>năng lượng</sub>. There are always people out and about, and the streets are lined with shops, cafes, and street food vendors. It’s a mix of modern buildings and traditional **/trəˈdɪʃ.ən.əl/** <sub>thuộc về truyền thống </sub> houses, giving it a unique charm **/tʃɑːm/** <sub>sự quyến rũ </sub>.
 	
 ### 3. What kind of shops are there in your neighborhood?
-There are a variety of shops in my neighborhood, including convenience stores, clothing boutiques, electronics shops, and a few supermarkets. Additionally, there are many local markets where you can buy fresh produce and other goods.
+There are a variety of shops in my neighborhood, including convenience stores, clothing boutiques **/buːˈtiːk/** <sub> small shops selling faction cloth</sub>, electronics shops, and a few supermarkets. Additionally, there are many local markets where you can buy fresh produce and other goods.
 	
 ### 4. Do you get along well with your neighbors?
 Yes, I get along well with my neighbors. We often greet each other and sometimes have small chats. There’s a strong sense of community, and people are generally friendly and helpful.
 	
 ### 5. What’s difficult about living there?
-One of the challenges of living in my neighborhood is the noise. Since it’s a busy area, there’s a lot of traffic and street noise, especially during peak hours. Additionally, finding parking can be difficult due to the high density of people and vehicles
+One of the challenges of living in my neighborhood is the noise. Since it’s a busy area, there’s a lot of traffic and street noise, especially during peak hours. Additionally, finding parking can be difficult due to the high density **/ˈden.sɪ.ti/** <sub>Tỉ trọng</sub> of people and vehicles
 
 <a name="education"></a>	
 ## Education(student):
