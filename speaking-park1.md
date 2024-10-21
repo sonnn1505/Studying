@@ -84,13 +84,13 @@ One of the challenges of living in my neighborhood is the noise. Since it’s a 
 I study computer science. It’s a fascinating **/ˈfæs.ən.eɪ.tɪŋ/** <sub>Lôi cuốn </sub> field that combines theory **/ˈθɪə.ri/** <sub>lý thuyết</sub> and practical skills to solve complex problems using technology. I’m particularly **/pəˈtɪk.jə.lə.li/** <sub> cụ thể</sub> interested in artificial intelligence and software development
 	
 ### 2. What is special about this subject?
-Computer science is special because it combines creativity with problem-solving. It allows you to build innovative solutions and understand how technology shapes our world. The field is constantly evolving, which makes it exciting and full of opportunities.
+Computer science is special because it combines creativity with problem-solving. It allows you to build innovative **/ˈinəˌvādiv** <sub>đổi mới</sub> solutions and understand how technology shapes our world. The field is constantly evolving, which makes it exciting and full of opportunities.
 	
 ### 3. Is there anything you find difficult about it?
-Yes, some aspects can be quite challenging. For example, understanding complex algorithms and data structures can be difficult. Additionally, keeping up with the rapid pace of technological advancements requires continuous learning and adaptation.
+Yes, some aspects **/ˈæs.pekt/** <sub> các khía cạnh </sub> can be quite challenging. For example, understanding complex algorithms **/ˈæl.ɡə.rɪ.ðəm/** <sub> Thuật toán </sub> and data structures can be difficult. Additionally, keeping up with the rapid pace of technological advancements requires continuous learning and adaptation.
 	
 ### 4. Where do you study? What’s your university/college like?
-I study at the University of Technology. The campus is modern and well-equipped, with state-of-the-art labs and a comprehensive library. The university also offers a variety of extracurricular activities and clubs, which provide a well-rounded educational experience.
+I study at the University of Technology. The campus is modern and well-equipped, with state-of-the-art labs and a comprehensive library. The university also offers a variety of extracurricular **/ˌekstrəkəˈrikyələr/** <sub>Ngoại khóa </sub> activities and clubs, which provide a well-rounded educational experience.
 
 <a name="job"></a>
 ## JOB
