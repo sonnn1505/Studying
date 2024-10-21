@@ -47,19 +47,19 @@ Yes, I get on very well with my family. We are close-knit and support each other
 I live in a small apartment in the city center. It's a one-bedroom unit with a normal living room, a fully-equipped **/ɪˈkwɪpt/** <sub>đầy đủ thiết bị </sub> kitchen, and a balcony that offers a great view of the city skyline. The building has amenities **/əˈmiː.nə.ti/** <sub>tiện nghi</sub> like a Gym, a swimming pool, and a small garden.
 
 ### 2 Have you always lived there?
-No, I haven't always lived here. I moved to this apartment about  5 years ago. Before that, I lived in countryside.
+No, I haven't always lived here. I moved to this apartment about  5 years ago. Before that, I lived in the countryside.
 	
 ### 3 What are the main advantages of this [accommodation]?
-The main advantages of my current accommodation are its location and the amenities . Being in the city center, it's very convenient for work and social activitiesThe amenities like the gym and pool are great for staying active without having to leave the building.
+The main advantages of my current accommodation are its location and the amenities. Being in the city center, it's very convenient for work and social activities the amenities like the gym and pool are great for staying active without having to leave the building.
    
 ### 4 What changes would you like to make to improve it?
 If I could make some changes, I would probably **/ˈprɒb.ə.bli/** <sub>có lẽ</sub> add more storage space and maybe upgrade the kitchen appliances. Also, it would be nice to have a larger balcony to enjoy the view even more.
 	
 ### 5 Would it be easy for you to move to another accommodation?
-I wouldn't be too difficult to move to another accommodation, but it would depend on finding a place that offers the same level  of convenience and amenities. Moving can be a bit stressful, but with proper planning , it can be managed
+It wouldn't be too difficult to move to another accommodation, but it would depend on finding a place that offers the same level of convenience and amenities. Moving can be a bit stressful, but with proper planning, it can be managed
 		
 ### 6 Do many people in your country live in such accommodation?
-Yes, many people in my country , especially in urban **/ˈɜː.bən/** <sub> đô thị</sub> areas , live in apartment similar to mine. With the increasing population and urbanization, apartments have become a popular choice due to their convenience and the facilities they offer.
+Yes, many people in my country, especially in urban **/ˈɜː.bən/** <sub> đô thị</sub> areas, live in apartments similar to mine. With the increasing population and urbanization, apartments have become a popular choice due to their convenience and the facilities they offer.
 
 <a name="neighbourhood"></a>
 ## Neighbourhood
@@ -369,7 +369,7 @@ Yes, it is important for people to eat fruits because they are rich in vitamins,
 Yes, I enjoy reading books.
 	
 ### 2. What kind of books do you like to read? [Why?]
-I like to read fiction, especially mystery and science fiction, because they are engaging and stimulate my imagination.
+I like to read fiction, especially mystery and science fiction because they are engaging and stimulate my imagination.
 	
 ### 3. Where do you like to read? [Why?]
 I like to read in a quiet and comfortable place, such as my living room or a cozy cafe, because it helps me focus and enjoy the book.
