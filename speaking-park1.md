@@ -95,7 +95,7 @@ I study at the University of Technology. The campus is modern and well-equipped,
 <a name="job"></a>
 ## JOB
 ### 1. What’s your job?
-I am a software engineer in the information technology industry.
+I am a software engineer in the information technology industry. My role involves designing, developing, and maintaining software applications. I enjoy solving complex problems and working on innovative projects that can make a difference in people’s lives
 	
 ### 2. Is it a common job in your country?
 Yes, being a software engineer is quite common in my country. The IT industry is growing rapidly, and there is a high demand for skilled professionals in this field.
@@ -116,13 +116,13 @@ At the moment, I am not actively looking to change my job. I enjoy the challenge
 Yes, I have experienced very cold weather. For example, I visited Sapa in northern Vietnam during the winter, and it was quite chilly, with temperatures dropping close to freezing.
 	
 ### 2. How often is the weather cold where you come from?
-In Ho Chi Minh City, the weather is generally warm and tropical year-round. It rarely gets cold here, even during the winter months.
+In Ho Chi Minh City, the weather is generally warm and tropical **/ˈträpəkəl/** <sub>Nhiệt đới </sub> year-round. It rarely **/ˈreə.li/**  <sub> Hiếm khi </sub> gets cold here, even during the winter months.
 	
 ### 3. Are some parts of your country colder than others? [Which parts?]
 Yes, northern Vietnam, especially areas like Sapa and Hanoi, can get quite cold in the winter. The central and southern regions, including Ho Chi Minh City, are much warmer.
 	
 ### 4. Would you prefer to live in a hot place or a cold place? [Why?]
-I would prefer to live in a warm place because I enjoy outdoor activities and find it more comfortable. However, I do appreciate visiting colder places occasionally for a change of scenery and to experience different climates.
+I would prefer to live in a warm place because I enjoy outdoor activities and find it more comfortable. However, I do appreciate visiting colder places occasionally for a change of scenery and to experience different climates **/ˈklaɪ.mət/** <sub> Khí hậu </sub>.
 
  <a name="laughing"></a>
 ## LAUGHING
