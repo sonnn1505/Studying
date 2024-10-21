@@ -30,7 +30,7 @@
 I have a small family; it's just my wife, my son, my daughter, and me. We are very close-knit and spend a lot of time together.
 
 ### 2. Can you tell me something about them?
-My wife is an accountant, my son and daughter are still in school. We all have different interests but support each other in everything we do. My children are very cute, and I have always encouraged  **/ɪnˈkʌr.ɪdʒd/** them to pursue  **/pəˈsjuː/** their dreams.
+My wife is an accountant, and My son and daughter are still in school. We all have different interests but support each other in everything we do. My children are very cute, and I have always encouraged  **/ɪnˈkʌr.ɪdʒd/** them to pursue  **/pəˈsjuː/** their dreams.
 
 ### 3. How much time do you manage to spend with members of your family?
 I try to spend as much time as possible with my family, especially on weekends. We have dinner together every night, which is a great time to catch up on each other’s lives.
@@ -44,10 +44,10 @@ Yes, I get on very well with my family. We are close-knit and support each other
 <a name="idxaccommodation"></a>
 ## Accommodation
 ### 1 What kind of accommodation do you live in? What’s it like?
-I live in a small apartment in the city center.It's a one-bedroom unit with a normal living room, a fully-equipped **/ɪˈkwɪpt/** <sub>đầy đủ thiết bị </sub> kitchen , and a balcony that offers a great view of the city skyline. The building has amenities **/əˈmiː.nə.ti/** <sub>tiện nghi</sub> like gym , a swimming pool, and a small garden.
+I live in a small apartment in the city center. It's a one-bedroom unit with a normal living room, a fully-equipped **/ɪˈkwɪpt/** <sub>đầy đủ thiết bị </sub> kitchen, and a balcony that offers a great view of the city skyline. The building has amenities **/əˈmiː.nə.ti/** <sub>tiện nghi</sub> like a Gym, a swimming pool, and a small garden.
 
 ### 2 Have you always lived there?
-No, I haven't always lived here. I moved to this apartment about  5 years ago. Before that , I lived in countryside .
+No, I haven't always lived here. I moved to this apartment about  5 years ago. Before that, I lived in countryside.
 	
 ### 3 What are the main advantages of this [accommodation]?
 The main advantages of my current accommodation are its location and the amenities . Being in the city center, it's very convenient for work and social activitiesThe amenities like the gym and pool are great for staying active without having to leave the building.
@@ -119,7 +119,7 @@ Yes, I have experienced very cold weather. For example, I visited Sapa in northe
 In Ho Chi Minh City, the weather is generally warm and tropical year-round. It rarely gets cold here, even during the winter months.
 	
 ### 3. Are some parts of your country colder than others? [Which parts?]
-Yes, northern Vietnam, especially areas like Sapa and Hanoi, can get quite cold in the winter.The central and southern regions, including Ho Chi Minh City, are much warmer.
+Yes, northern Vietnam, especially areas like Sapa and Hanoi, can get quite cold in the winter. The central and southern regions, including Ho Chi Minh City, are much warmer.
 	
 ### 4. Would you prefer to live in a hot place or a cold place? [Why?]
 I would prefer to live in a warm place because I enjoy outdoor activities and find it more comfortable. However, I do appreciate visiting colder places occasionally for a change of scenery and to experience different climates.
@@ -136,7 +136,7 @@ Yes, I enjoy making other people laugh because it brings joy and lightens the mo
 Absolutely, I think it's important for people to laugh. Laughter has many benefits, including reducing stress, improving mood, and fostering social connections. It can be a great way to cope with difficult situations and enhance overall well-being.
 	
 ### 4. Is laughing the same as feeling happy, do you think? [Why/Why not?]
-While laughing and feeling happy are related, they are not exactly the same. Laughter is often a response to something funny and can be a momentary reaction, whereas happiness is a more sustained and deeper emotional state. However, laughter can certainly contribute to feelings of happiness.
+While laughing and feeling happy are related, they are not the same. Laughter is often a response to something funny and can be a momentary reaction, whereas happiness is a more sustained and deeper emotional state. However, laughter can certainly contribute to feelings of happiness.
 	
 <a name="keepingincontractwithpeople"></a>
 ## Keeping in contact with people
@@ -150,7 +150,7 @@ Yes, I do prefer to contact different people in different ways. For example, I m
 Generally, I find it easy to keep in contact with friends and family because of the various communication tools available today. However, it can sometimes be challenging to stay in touch regularly due to busy schedules and time zone differences.
 	
 ### 4. In your country, did people in the past keep in contact in the same ways as they do today? [Why/Why not?]
-In the past, people in my country primarily kept in contact through letters, landline phones, and face-to-face visits.Today, with the advent of the internet and mobile technology, communication has become much more instant and accessible through emails, social media, and messaging apps. The change is largely due to technological advancements that have made it easier and faster to connect with others.
+In the past, people in my country primarily kept in contact through letters, landline phones, and face-to-face visits. Today, with the advent of the internet and mobile technology, communication has become much more instant and accessible through emails, social media, and messaging apps. The change is largely due to technological advancements that have made it easier and faster to connect with others.
 	
 <a name="dailyroutine"></a>
 ## Daily Routine
@@ -161,8 +161,8 @@ I would like to incorporate more exercise into my daily routine to stay healthy 
 Not exactly. While weekdays are usually similar due to work, weekends are more varied with different activities and relaxation.
 	
 ### 3. Tell me about your typical weekday and your typical weekend.
-- Weekday: I usually wake up at 7 AM, have breakfast, and start work by 9 AM. I work until 6 PM with breaks in between Evenings are for dinner, some leisure activities, and then I go to bed around 11 PM.
-- Weekend: I wake up a bit later, around 8 AM. Weekends are for hobbies, spending time with family and friends, and sometimes catching up on work or studying. I also enjoy outdoor activities or exploring new places.
+- Weekday: I usually wake up at 7 AM, have breakfast, and start work by 9 AM. I work until 6 PM with breaks in between Evenings are for dinner, and some leisure activities, and then I go to bed around 11 PM.
+- Weekend: I wake up a bit later, around 8 AM. Weekends are for hobbies, spending time with family and friends, and sometimes catching up on work or studying. I also enjoy outdoor activities and exploring new places.
 	
 ### 4. What is the balance of work/study and free time in your normal day?
 On weekdays, most of my time is dedicated to work, but I make sure to have a few hours of free time in the evening. Weekends have a better balance with more free time for personal activities.
