@@ -81,7 +81,7 @@ One of the challenges of living in my neighborhood is the noise. Since it’s a 
 <a name="education"></a>	
 ## Education(student):
 ### 1. What do you study?
-I study computer science.
+I study computer science. It’s a fascinating **/ˈfæs.ən.eɪ.tɪŋ/** <sub>Lôi cuốn </sub> field that combines theory **/ˈθɪə.ri/** <sub>lý thuyết</sub> and practical skills to solve complex problems using technology. I’m particularly **/pəˈtɪk.jə.lə.li/** <sub> cụ thể</sub> interested in artificial intelligence and software development
 	
 ### 2. What is special about this subject?
 Computer science is special because it combines creativity with problem-solving. It allows you to build innovative solutions and understand how technology shapes our world. The field is constantly evolving, which makes it exciting and full of opportunities.
