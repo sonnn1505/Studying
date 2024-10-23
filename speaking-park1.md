@@ -447,15 +447,14 @@ Bái Đính Pagoda
 - What you can see there now: Visitors to Bái Đính Pagoda can explore a variety of impressive structures and features:
 
 The Ancient **/ˈeɪn.ʃənt** <sub>cổ đại</sub> Pagoda: Located in the foothills **/ˈfo͝otˌ(h)il/** <sub>chân đồi</sub>, this part of the complex includes small caves and ancient temples where natural spirits **plural** <sub>Tinh thần</sub> and Buddhist deities **/ˈdeɪ.ɪ.ti/**  are venerated **/ˈven.ər.eɪt/** <sub>Tôn kính</sub>.
-The New Pagoda: This area covers about 700 hectares and includes large halls **/hɔːl/** <sub>sảnh</sub>, courtyards **/ˈkɔːt.jɑːd/** <sub>sân</sub>, and enclosures **/ɪnˈkləʊ.ʒər/** <sub>thùng đựng</sub>. Notable structures include the Tam Thế Hall, the Bell Tower with a 36-ton bronze bell, and the Báo Thiên Stupa12.
-Statues and Sculptures: The complex is home to hundreds of statues, including a large statue of Maitreya Buddha and 500 Arhat statues2.
-Festivals and Events: The pagoda hosts a vibrant festival on the sixth day of the first lunar month, featuring Buddhist rites and traditional rituals2.
-Why this place is interesting: Bái Đính Pagoda is fascinating for several reasons:
+The New Pagoda: This area covers about 700 hectares and includes large halls **/hɔːl/** <sub>sảnh</sub>, courtyards **/ˈkɔːt.jɑːd/** <sub>sân</sub>, and enclosures **/ɪnˈkləʊ.ʒər/** <sub>thùng đựng</sub>.
 
-Cultural and Spiritual Significance: It is a major pilgrimage site for Buddhists in Vietnam, blending ancient traditions with modern architectural marvels.
-Architectural Grandeur: The new pagoda’s architecture is a blend of traditional Vietnamese design and modern construction techniques, making it a unique and visually stunning site1.
-Historical Value: The ancient pagoda dates back to 1136, offering a glimpse into Vietnam’s rich religious history2.
-Scenic Beauty: The location on Bái Đính Mountain provides breathtaking views of the surrounding landscape, adding to the serene and spiritual atmosphere of the complex2.
+- Why this place is interesting: Bái Đính Pagoda is fascinating for several reasons:
+
+Cultural and Spiritual **/ˈspɪr.ɪ.tʃu.əl/** <sub>ý nghĩa văn hóa và tâm linh</sub>Significance: It is a major pilgrimage **/ˈpɪl.ɡrɪ.mɪdʒ/** <sub>hành hương</sub> site for Buddhists in Vietnam, blending **/blend/** <sub> pha trộn</sub> ancient traditions with modern architectural marvels **/ˈmɑː.vəl/** <sub>điều kỳ diệu</sub>.
+Architectural Grandeur: The new pagoda’s architecture is a blend of traditional Vietnamese design and modern construction techniques, making it a unique and visually stunning **/ˈstʌn.ɪŋ/** <sub>sự kinh ngạc</sub> site1.
+Historical Value: The ancient pagoda dates back to 1136, offering a glimpse **gờ lim sì../ thoáng qua**  into Vietnam’s rich religious **/rɪˈlɪdʒ.əs/ tôn giáo** history2.
+Scenic **/ˈsiː.nɪk/ cảnh đẹp** Beauty: The location on Bái Đính Mountain provides breathtaking views of the surrounding landscape, adding to the serene and spiritual atmosphere **/ˈæt.mə.sfɪər/ bầu không khí** of the complex2.
 
 
 
