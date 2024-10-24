@@ -22,6 +22,9 @@
 - [1. Talk about an important year in your life](#importantyear)
 - [2. Describe an interesting historic place](#interestinghistoricplace)
 
+<span style="background-color: red;">Đoạn văn bản này có nền màu đỏ.</span>
+<span style="background-color: red;">Đoạn văn bản này có nền màu đỏ.</span>
+
 -----------------------------------------------------------------------------------------------------------------------------
 <a name="part1"></a>
 <a name="idxfamily"></a>
