@@ -6,15 +6,14 @@
 
 <a name="part2"></a>
 ### Part 2
-Part 2. You will hear a woman speaking to a group of people who are interested in becoming volunteers for an organisation called ACE. First, you have some time to look at questions 11 to 15. Now listen carefully and answer questions 11 to 15.
 
 Good evening everyone. Let me start by welcoming you all to this talk and thanking you for taking the time to consider joining ACE Voluntary Organisation. ACE offers support to people and services in the local area and we're now looking for more volunteers to help us do this.
 
-By the way, I hope you're all comfortable. We have brought in extra seats so that no one has to stand but it does mean that the people at the back of the room may be a bit squashed. We'll only be here for about half an hour so hopefully that's okay.
+By the way, I hope you're all comfortable. We have brought in extra seats so that no one has to stand but it does mean that the people at the back of the room may be a bit squashed __/skwɒʃ/__. We'll only be here for about half an hour so hopefully that's okay.
 
 One of the first questions we're often asked is how old you need to be to volunteer. Well, you can be as young as 16 or you can be 60 or over. It all depends on what type of voluntary work you want to do. 
 
-Other considerations such as reliability are crucial in voluntary work and age isn't related to these in our experience. Another question we get asked relates to training. Well, there's plenty of that and it's all face-to-face. 
+Other considerations such as reliability __/rɪˌlaɪ.əˈbɪl.ə.ti/ độ tin cậy__ are crucial __rất quan trong__ in voluntary work and age isn't related to these in our experience. Another question we get asked relates to training. Well, there's plenty __/ˈplen.ti/ nhiều__ of that and it's all face-to-face. 
 
 What's more, training doesn't end when you start working for us. It takes place before, during and after periods of work. Often it's run by other experienced volunteers as managers tend to prefer to get on with other things. 
 
