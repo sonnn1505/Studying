@@ -13,10 +13,10 @@ One of the benefits of coworking / shared workspace is that people don’t have 
 Many start-ups fail in their first year because there is little or no market for their product.
 
 **5. entrepreneur (n)**
-These entrepreneurs made their money in technology and media.
+These entrepreneurs _doanh nhân_  made their money in technology and media.
 
 **6. multinational (n)**
-Tesco is one of the biggest multinationals in the UK.
+Tesco is one of the biggest multinationals _các công ty đa quốc gia_ in the UK.
 
 **7. disruption (n) / disruptive (adj)**
 Airbnb, Netflix and Uber are examples of disruptive brands that have created new markets.
