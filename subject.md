@@ -7,7 +7,7 @@ She has all the qualities of an excellent team-player.
 A British company collaborated with a French firm to develop the product.
 
 **3. coworking / shared workspace (n)**
-One of the benefits of coworking / shared workspace is that people don’t have the isolation of working from home or in a noisy café.
+One of the benefits of coworking / shared workspace is that people don’t have the isolation _cách ly_ of working from home or in a noisy café.
 
 **4. start-up (n)**
 Many start-ups fail in their first year because there is little or no market for their product.
