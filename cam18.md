@@ -25,7 +25,7 @@ What we value is dedication __/ˌded.ɪˈkeɪ.ʃən/ sự cống hiến__. Some 
 
 Now listen and answer questions 16 to 20. Okay, so let's take a look at some of the work areas that we need volunteers for and the sort of things that would help you in those. You may wish simply to help us raise money.
 
-If you have the creativity to come up with an imaginative or novel way of fundraising we'd be delighted as standing in the local streets or shops with a collection box can be rather boring. One outdoor activity that we need volunteers for is litter collection and for this it's useful if you can walk for long periods, sometimes uphill __/ˌʌpˈhɪl/ lên dốc__. Some of our regular collectors are quite elderly __người già__ but very active and keen to protect the environment.
+If you have the creativity to come up with an imaginative __/ɪˈmædʒ.ɪ.nə.tɪv/ giàu trí tưởng tượng__ or novel way of fundraising we'd be delighted as standing in the local streets or shops with a collection box can be rather boring. One outdoor activity that we need volunteers for is litter collection and for this it's useful if you can walk for long periods, sometimes uphill __/ˌʌpˈhɪl/ lên dốc__. Some of our regular collectors are quite elderly __người già__ but very active and keen to protect the environment.
 
 If you enjoy working with children we have three vacancies for what are called playmates. These volunteers help children learn about staying healthy through a range of out of school activities. You don't need to have children yourself but it's good if you know something about nutrition and can give clear instructions. 
 
