@@ -60,4 +60,5 @@ Chia lam 2 giai doan
   + Use critical thinking to group T/F/NG or Y/N/NG
   ![alt](https://github.com/sonnn1505/Studying/blob/main/resources/images/T_F_NG_01.jpg)
 
+  ![alt](https://github.com/sonnn1505/Studying/blob/main/resources/images/T_F_NG_02.jpg)
 
