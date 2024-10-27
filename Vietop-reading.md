@@ -54,4 +54,9 @@ Chia lam 2 giai doan
   + Modifying words: (từ bổ nghĩa ) là từ được dùng để thay đổi hoặc mô tả một từ khác. Trong tiếng Anh , các từ này thường là tính từ và trạng từ .
        __Tính từ (ADJ)__: dùng để bổ nghĩa cho danh từ , giúp mô tả hoặc xác định rõ ràng hơn .ex: Beautiful (đẹp), large (lớn).
        __Trạng từ (ADV)__: dùng để bổ nghĩa cho động từ , tính từ hoặc trạng tư khác .ex: quickly (nhanh chóng), very (rất).
+  + Underline common key words
+- 4th: Answer
+  + Locate sentence in the reading text that has common keywords questions
+  + Use critical thinking to group T/F/NG or Y/N/NG
+  + 
 
