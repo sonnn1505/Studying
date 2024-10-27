@@ -61,5 +61,11 @@ Chia lam 2 giai doan
 
 ![alt](https://github.com/sonnn1505/Studying/blob/main/resources/images/T_F_NG_01.jpg)
 
++ __Nhóm 1 NOT GIVEN : Lack information__
 ![alt](https://github.com/sonnn1505/Studying/blob/main/resources/images/T_F_NG_02.jpg)
 
++ __Nhóm 2 NOT GIVEN:__
+![alt](https://github.com/sonnn1505/Studying/blob/main/resources/images/T_F_NG_03.jpg)
+
+
+  
