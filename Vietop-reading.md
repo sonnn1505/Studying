@@ -35,3 +35,23 @@ Concluding Sentence
 - 1st: Circle all the significant key words all od the headings and try to remember.
 - 2nd: Base on your memmory to iliminate some headings
 - 3rd: Read all the paragraphs from the top to the bottom -> find topic sentence/ cocluding sentence -> find key words headings -> match to suiable heading.
+
+# TRUE/ FALSE/ NOT GIVEN & YES/NO/NOT GIVEN
+
+## note:
+Chia lam 2 giai doan
+1. locate question nam o dau trong text
+2. Dung phuong phap suy luan de nhom
+# Feature:
+- 1st: All the question will follow reading passage order
+# Steps:
+- 1st: Take noet full True/False/ Not given or Yes/no/not given as the first question
+- 2nd: chose easy question to do first
+- 3rd: Analyse the chosen question
+  + Split a complex sentence -> 2 individual sentences
+    T-T ->T / F-T -> F/ F-F->NG
+  + Cirle the modifyling words (expect to have the opposite words)
+  + Modifying words: (từ bổ nghĩa ) là từ được dùng để thay đổi hoặc mô tả một từ khác. Trong tiếng Anh , các từ này thường là tính từ và trạng từ .
+       __Tính từ (ADJ)__: dùng để bổ nghĩa cho danh từ , giúp mô tả hoặc xác định rõ ràng hơn .ex: Beautiful (đẹp), large (lớn).
+       __Trạng từ (ADV)__: dùng để bổ nghĩa cho động từ , tính từ hoặc trạng tư khác .ex: quickly (nhanh chóng), very (rất).
+
