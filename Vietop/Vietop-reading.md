@@ -17,9 +17,7 @@
 
 
 # MATCHING HEADING
-Transition Sentence
-Topic Sentence
-Concluding Sentence
+Transition Sentence -> Topic Sentence -> Concluding Sentence
 
 1. Diễn Dịch:
    1.1 Transation sentence ( Cau chuyen A->B .ex: In general..) -> [Topic sentence] -> Explain sentences
