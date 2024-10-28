@@ -1,7 +1,7 @@
 # NOTE COMPLETION
 ## I. Feature
 - 1st :All the question will follow reading passage order
-## II. Step:
+## II. Steps:
 - 1st : Cicle maximum words
 - 2nd : Chose easy question to do first & do each question at a time
 - 3rd : Analyse chosen question
@@ -21,17 +21,17 @@ Transition Sentence
 Topic Sentence
 Concluding Sentence
 
-1. Dien Dich:
+1. Diễn Dịch:
    1.1 Transation sentence ( Cau chuyen A->B .ex: In general..) -> [Topic sentence] -> Explain sentences
    1.2 [Topic Sentence] -> Explanasion Senectence
 
-2. Quy Nap
+2. Quy Nạp
    2.1 Explain Sentences -> [concluding sentence]  
 
-## Feature
+## Feature:
 - 1st: All headings will not follow reading passage order.
 - 2nd:You shoud do this type at the end of each reading section.
-## Step
+## Steps:
 - 1st: Circle all the significant key words all od the headings and try to remember.
 - 2nd: Base on your memmory to iliminate some headings
 - 3rd: Read all the paragraphs from the top to the bottom -> find topic sentence/ cocluding sentence -> find key words headings -> match to suiable heading.
