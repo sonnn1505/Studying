@@ -23,7 +23,8 @@
 - main key words:
    - changeable , unchangeable
 <br>Ex: $${\color{red} V + O -->}$$ <ins> Buy </ins> ...?
-
+<br>Ex: $${\color{red} V + O -->}$$ Buy a ...<ins> house </ins>?
+<br>Noted: $${\color{red} Answer \space Bổ \space nghĩa \space cho \space key word \space nào \space thì \space khoanh \space tròn \space từ \space đó \space lại.}$$
 
 # NOTE COMPLETION
 ## I. Feature
