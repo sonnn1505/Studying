@@ -3,8 +3,8 @@
 
 | Reading 1 | Reading 2 | Reading 3 |
 | :--- | :--- | :--- |
-|1. Short Answer question(#shortanswerquestion)                  |10. True/False/ Not Given                 |14. Finding information in the paragraph|
-|2. Note completion(#notecompletion)                             |11. Multiple Choice|15. Mathching headings|
+|[1. Short Answer question](#shortanswerquestion)                  |10. True/False/ Not Given                 |14. Finding information in the paragraph|
+|[2. Note completion](#notecompletion)                             |11. Multiple Choice|15. Mathching headings|
 |3. Sentence Completion <br> 3'. Sentence Completion (mathching sentence endings)|12. Pick from a list|  |
 |4. Table Completion                                |13. Matching Features                     |  |
 |5. Flow Completion                                 |                                          |  |
