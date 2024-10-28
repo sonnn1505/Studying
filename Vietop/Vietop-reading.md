@@ -18,7 +18,10 @@
 <br>100% Diagram completion, 80% flow chart completion & summary completion
 <br>All the question will be located in one paragraph or two continouse paragraps
 <br>:heavy_check_mark: __Key words:__
-
+- Common key words:
+   - changeable , unchangeable
+- main key words:
+   - changeable , unchangeable
 
 # NOTE COMPLETION
 ## I. Feature
