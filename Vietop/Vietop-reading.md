@@ -37,9 +37,16 @@
      - 2 words AND/ OR a number: 1 word + a number/ 2 words + a number/ a number
 - 2nd: Chose <ins> easy question </ins> to do first ( do each question at time)
      - easy question : có unchangeable key words
-- 3rd:
-- 4th:
-- 
+- 3rd: Analyse the chosen question
+     - Circle main key words -> predict answer ( word form -> meaning)
+     - Underline common key words
+- 4th: Answer
+     - Locate sentence in the reading text which has common key words question
+     - Base on gramar :
+          - Split complex sentence -> 2 indivirual sentences.
+          - S V O
+     - Base on main key words
+          - Get answer. 
 
 <a name ="notecompletion"></a>
 # NOTE COMPLETION
