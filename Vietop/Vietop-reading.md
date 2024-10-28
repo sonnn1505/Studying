@@ -1,4 +1,4 @@
-Reading có 13 dạng:
+:star: Reading có 13 dạng:
 
 | Reading 1 | Reading 2 | Reading 3 |
 | :--- | :--- | :--- |
