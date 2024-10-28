@@ -27,12 +27,23 @@
 <br>Noted: $${\color{red} Answer \space Bổ \space nghĩa \space cho \space key word \space nào \space thì \space khoanh \space tròn \space từ \space đó \space lại.}$$
 
 <a name="shortanswerquestion"></a>
-# SHORT ANSWER QUESTION
-
+## SHORT ANSWER QUESTION
+### I. Features:
+- 1st : All the question will follow reading passage order
+- 2nd : Start " Answer the question below..."
+### II. Steps:
+- 1st: Circle maximum words
+     - 2 words Or a number : 1 word/2 words /a number
+     - 2 words AND/ OR a number: 1 word + a number/ 2 words + a number/ a number
+- 2nd: Chose <ins> easy question </ins> to do first ( do each question at time)
+     - easy question : có unchangeable key words
+- 3rd:
+- 4th:
+- 
 
 <a name ="notecompletion"></a>
 # NOTE COMPLETION
-## I. Feature
+## I. Features:
 - 1st :All the question will follow reading passage order
 ## II. Steps:
 - 1st : Cicle maximum words
