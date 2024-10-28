@@ -22,7 +22,7 @@
    - changeable , :arrow_up: __unchangeable (Name/ Number) ==>easy question__
 - main key words:
    - changeable , unchangeable
-<br>Ex: $${\color{red} V + O -->}$$ Buy...?
+<br>Ex: $${\color{red} V + O -->}$$ <ins> Buy </ins> ...?
 
 
 # NOTE COMPLETION
