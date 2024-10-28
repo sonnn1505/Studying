@@ -19,9 +19,11 @@
 <br>All the question will be located in one paragraph or two continouse paragraps
 <br>:heavy_check_mark: __Key words:__
 - Common key words:
-   - changeable , unchangeable
+   - changeable , :arrow_up: __unchangeable (Name/ Number) ==>easy question__
 - main key words:
    - changeable , unchangeable
+Ex: $${\color{red}V + O -->}$$ \textcircled{Buy} ...?
+
 
 # NOTE COMPLETION
 ## I. Feature
