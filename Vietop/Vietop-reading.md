@@ -3,15 +3,17 @@
 
 | Reading 1 | Reading 2 | Reading 3 |
 | :--- | :--- | :--- |
-|1. Short Answer question             |10. True/False/ Not Given |14. Finding information in the paragraph |
-|2. Note completion                   |11. Multiple Choice|15. Mathching headings|
+|1. Short Answer question                           |10. True/False/ Not Given                 |14. Finding information in the paragraph|
+|2. Note completion                                 |11. Multiple Choice|15. Mathching headings|
 |3. Sentence Completion <br> 3'. Sentence Completion (mathching sentence endings)|12. Pick from a list|  |
-|4. Table Completion                  |13. Matching Features|  |
-|5. Flow Completion                   |  |  |
-|6. Digram Completion                 |  |  |
-|7. Summary Completion                |  |  |
-|8. Summary Completion ( with a box)  |  |  |
+|4. Table Completion                                |13. Matching Features                     |  |
+|5. Flow Completion                                 |                                          |  |
+|6. Digram Completion                               |                                          |  |
+|7. Summary Completion <br> <sub> chuyển cột 3</sub>|                                          |  |
+|8. Summary Completion ( with a box)  <br> <sub> chuyển cột 3</sub>|                           |  |
 
+:red_circle: Follow reading passage order:<br>
+:x: Exception : Summary Completion, Summary Completion with a box, Finding Information in the Paragraph, Matching headings.
 
 # NOTE COMPLETION
 ## I. Feature
