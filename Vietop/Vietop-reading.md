@@ -3,8 +3,8 @@
 
 | Reading 1 | Reading 2 | Reading 3 |
 | :--- | :--- | :--- |
-|1. Short Answer question                           |10. True/False/ Not Given                 |14. Finding information in the paragraph|
-|2. Note completion                                 |11. Multiple Choice|15. Mathching headings|
+|1. Short Answer question(#shortanswerquestion)                  |10. True/False/ Not Given                 |14. Finding information in the paragraph|
+|2. Note completion(#notecompletion)                             |11. Multiple Choice|15. Mathching headings|
 |3. Sentence Completion <br> 3'. Sentence Completion (mathching sentence endings)|12. Pick from a list|  |
 |4. Table Completion                                |13. Matching Features                     |  |
 |5. Flow Completion                                 |                                          |  |
@@ -26,10 +26,11 @@
 <br>Ex: $${\color{red} V + O -->}$$ Buy a ...<ins> house </ins>?
 <br>Noted: $${\color{red} Answer \space Bổ \space nghĩa \space cho \space key word \space nào \space thì \space khoanh \space tròn \space từ \space đó \space lại.}$$
 
-
+<a name="shortanswerquestion"></a>
 # SHORT ANSWER QUESTION
 
 
+<a name ="notecompletion"></a>
 # NOTE COMPLETION
 ## I. Feature
 - 1st :All the question will follow reading passage order
