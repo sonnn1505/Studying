@@ -1,23 +1,16 @@
 Reading có 13 dạng:
-dang 1 (completion) :
-   1. Short Answer question
-   2. Note completion
-   3. Sentence Completion
-   3'. Sentence Completion (mathching sentence endings)
-   4. Table Completion
-   5. Flow Completion
-   6. Digram Completion
-   7. Summary Completion
-   8. Summary Completion ( with a box)
-dạng 2:
-   10. True/False/ Not Given
-   11. Multiple Choice
-   12. Pick from a list
-   13. Matching Features
 
-dạng 3:
-   14. Finding information in the paragraph
-   15. Mathching headings
+| Reading 1 | Reading 2 | Reading 3 |
+| :--- | :--- | :--- |
+|1. Short Answer question             |10. True/False/ Not Given |14. Finding information in the paragraph |
+|2. Note completion                   |11. Multiple Choice|15. Mathching headings|
+|3. Sentence Completion <br> 3'. Sentence Completion (mathching sentence endings)|12. Pick from a list|  |
+|4. Table Completion                  |13. Matching Features|  |
+|5. Flow Completion                   |  |  |
+|6. Digram Completion                 |  |  |
+|7. Summary Completion                |  |  |
+|8. Summary Completion ( with a box)  |  |  |
+
 
 # NOTE COMPLETION
 ## I. Feature
