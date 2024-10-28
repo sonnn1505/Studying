@@ -12,8 +12,13 @@
 |7. Summary Completion <br> <sub> chuyển cột 3</sub>|                                          |  |
 |8. Summary Completion ( with a box)  <br> <sub> chuyển cột 3</sub>|                           |  |
 
-:red_circle: Follow reading passage order:<br>
-:x: Exception : Summary Completion, Summary Completion with a box, Finding Information in the Paragraph, Matching headings.
+:heavy_check_mark: __Follow reading passage order:__
+<br>:x: Exception : Summary Completion, Summary Completion with a box, Finding Information in the Paragraph, Matching headings.
+<br>:heavy_check_mark: __Contain in part of the reading text:__
+<br>100% Diagram completion, 80% flow chart completion & summary completion
+<br>All the question will be located in one paragraph or two continouse paragraps
+<br>:heavy_check_mark: __Key words:__
+
 
 # NOTE COMPLETION
 ## I. Feature
