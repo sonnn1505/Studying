@@ -5,7 +5,7 @@
 | :--- | :--- | :--- |
 |[1. Short Answer question](#shortanswerquestion)                  |10. True/False/ Not Given                 |14. Finding information in the paragraph|
 |[2. Note completion](#notecompletion)                             |11. Multiple Choice|15. Mathching headings|
-|3. Sentence Completion <br> 3'. Sentence Completion (mathching sentence endings)|12. Pick from a list|  |
+|[3. Sentence Completion](#sentencecomplete) <br> 3'. Sentence Completion (mathching sentence endings)|12. Pick from a list|  |
 |4. Table Completion                                |13. Matching Features                     |  |
 |5. Flow Completion                                 |                                          |  |
 |6. Digram Completion                               |                                          |  |
@@ -62,6 +62,10 @@
    - Locate sentence(bắt đầu từ VIẾT HOA....Kết thúc .) in the reading text which has common key words question
    - Base on gramar (S V O) , complex sentence -->split
    - Base on prediction --> get answer
+
+<a name ="sentencecomplete"></a>
+## SENTENCE COMPLETION
+
 
 # TABLE COMPLETION
 
