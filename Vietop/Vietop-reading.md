@@ -67,10 +67,10 @@
 ## SENTENCE COMPLETION
 
 
-# TABLE COMPLETION
+## TABLE COMPLETION
 
 
-# MATCHING HEADING
+## MATCHING HEADING
 Transition Sentence -> Topic Sentence -> Concluding Sentence
 
 1. Diễn Dịch:
