@@ -13,3 +13,23 @@
     - Java collection:
       - Array
   
+### Array
+    - Nhanh
+        - Trực tiếp
+    - Tập hợp dữ liệu thông tin có cùng kiểu & ở cạnh nhau
+
+        |0|1|2|3|4|5|6|7|8|9|10|
+        |4|8|14|18|
+        |4byte| --> 32 bit
+        |8byte| --> 64 bit
+        vị trí [i] = (địa chỉ bắt đầu + i) * 32 bit (4 byte)
+    - Nhược điểm :
+        - kích thước cố định và có giới hạn
+        - Cấp phát liên tục gần nhau --> cần cấp phát bộ nhớ lên tục
+        - CR(UD--> thêm xóa ở cuối --> Nhanh)
+### LinkList :
+    - chứa dữ liệu , 
+    - Linh hoạt : 
+    - Node( datas, liên kết)
+
+
