@@ -1,3 +1,5 @@
+1--27: Short Text --> làm 1 lèo từ trên xuống dưới
+<br> 28--40: Long text --> chọn câu dễ làm trước
 :star: Reading có 13 dạng:
 :arrow_forward:
 
@@ -65,7 +67,12 @@
 
 <a name ="sentencecomplete"></a>
 ## SENTENCE COMPLETION
-
+### I. Features:
+- 1st : Cái đáp án đang bổ nghĩa cho từ nào, cụm nào thì từ đó, cụm đó là main keywords, còn lại là phần common keywords.
+- 2nd : V + O --> Ex: Buy..../ V + On --> Ex: buy a ....House
+### II. Steps:
+- 1st : all question will follow reading passage order.
+- 2nr : 
 
 ## TABLE COMPLETION
 
