@@ -1,5 +1,3 @@
-1--27: Short Text --> làm 1 lèo từ trên xuống dưới
-<br> 28--40: Long text --> chọn câu dễ làm trước
 :star: Reading có 13 dạng:
 :arrow_forward:
 
@@ -70,9 +68,17 @@
 ### I. Features:
 - 1st : Cái đáp án đang bổ nghĩa cho từ nào, cụm nào thì từ đó, cụm đó là main keywords, còn lại là phần common keywords.
 - 2nd : V + O --> Ex: Buy..../ V + On --> Ex: buy a ....House
+- 3rd : all question will follow reading passage order.
 ### II. Steps:
-- 1st : all question will follow reading passage order.
-- 2nr : 
+- 1st : circle maximum words
+- 2nd : + Short text (1-27) --> làm từ trên xuống dưới
+        + Long text (28-40) --> chọn câu dễ làm trước ( có Unchangeable key words : name/number)
+- 3rd : Anaylse the chosen question
+     + Circle main keywords -> predict answer ( word form/ meaning)
+     + Underline common key words
+- 4th : Answer
+       - câu phức --> tách nó thành 2 câu đơn, nếu common key words đổ dồn về phía nào thì đọc phía đó
+       - --> S V O
 
 ## TABLE COMPLETION
 
