@@ -1,4 +1,11 @@
-# API import metadata thay vì scan
+# 1. API import metadata thay vì scan
+# 2. bussiness metadata/ techncial meta data mapping
+# 3. access control / permission grant (group)
+# 4. data linage
+# 5.data classification: PII
+# 6. approval workflow (data owner/ data steward)
+ 
+
 ## 3. Sử dụng AWS Glue APIs
 ### Tạo cơ sở dữ liệu:
 
