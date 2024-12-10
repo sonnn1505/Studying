@@ -5531,8 +5531,32 @@
         <mxCell id="SzRW4YeHLBfuAiHqQvzj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#182E3E;fontColor=#1A1A1A;" edge="1" parent="1" source="SzRW4YeHLBfuAiHqQvzj-8" target="SzRW4YeHLBfuAiHqQvzj-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SzRW4YeHLBfuAiHqQvzj-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SzRW4YeHLBfuAiHqQvzj-22" target="SzRW4YeHLBfuAiHqQvzj-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SzRW4YeHLBfuAiHqQvzj-22" value="&lt;span style=&quot;font-weight: var(--fontWeightSemibold); color: rgb(255, 255, 255); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(41, 41, 41);&quot;&gt;DAG (Directed Acyclic Graph)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="143" y="915" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzRW4YeHLBfuAiHqQvzj-23" value="&lt;span style=&quot;font-weight: var(--fontWeightSemibold); color: rgb(255, 255, 255); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(41, 41, 41);&quot;&gt;Task&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="915" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzRW4YeHLBfuAiHqQvzj-27" value="Operator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="143" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzRW4YeHLBfuAiHqQvzj-28" value="Task Instance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="143" y="1085" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzRW4YeHLBfuAiHqQvzj-29" value="DAG Run" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzRW4YeHLBfuAiHqQvzj-30" value="Scheduler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSHM1v7JJSZVJBdxx-Gu-1" value="Excecutor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="143" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSHM1v7JJSZVJBdxx-Gu-2" value="Webserver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="143" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
