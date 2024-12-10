@@ -5457,7 +5457,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QY0qRIsQa8uqua-n6Qb9" name="airflow">
-    <mxGraphModel dx="670" dy="718" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="963" dy="1033" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5670,6 +5670,33 @@
         <mxCell id="_BbH4GGrl09366TwEeae-13" value="Distributed" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="892" y="864" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QPOw9eLBuXJ1o46-IQb9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QPOw9eLBuXJ1o46-IQb9-1" target="QPOw9eLBuXJ1o46-IQb9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPOw9eLBuXJ1o46-IQb9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=default;curved=0;" edge="1" parent="1" source="QPOw9eLBuXJ1o46-IQb9-1" target="QPOw9eLBuXJ1o46-IQb9-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="179" y="1589" />
+              <mxPoint x="179" y="1694" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QPOw9eLBuXJ1o46-IQb9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="QPOw9eLBuXJ1o46-IQb9-1" target="QPOw9eLBuXJ1o46-IQb9-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="179" y="1589" />
+              <mxPoint x="179" y="1799" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QPOw9eLBuXJ1o46-IQb9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="QPOw9eLBuXJ1o46-IQb9-1" target="QPOw9eLBuXJ1o46-IQb9-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="179" y="1589" />
+              <mxPoint x="179" y="1906" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QPOw9eLBuXJ1o46-IQb9-1" value="Task Trigger" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="7" y="1559" width="120" height="60" as="geometry" />
         </mxCell>
@@ -5699,6 +5726,14 @@
         </mxCell>
         <mxCell id="QPOw9eLBuXJ1o46-IQb9-13" value="Conditional Trigger" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200.5" y="1978" width="143" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QPOw9eLBuXJ1o46-IQb9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.139;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="QPOw9eLBuXJ1o46-IQb9-1" target="QPOw9eLBuXJ1o46-IQb9-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="179" y="1589" />
+              <mxPoint x="179" y="2025" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
