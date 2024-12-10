@@ -5792,13 +5792,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2_FuCtmNqweSd63da74F-12" value="Event-based Triggers&lt;br&gt;(&lt;b&gt;&lt;font color=&quot;#cc0066&quot;&gt;sensor&lt;/font&gt;&lt;/b&gt;)" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="563" y="2235" width="135" height="60" as="geometry" />
+          <mxGeometry x="563" y="2248" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2_FuCtmNqweSd63da74F-18" value="1.Time Sensor: Chờ đợi một khoảng thời gian cụ thể hoặc đến một thời điểm nhất định.&#xa;2.File Sensor: Chờ đợi sự xuất hiện của một tệp tin trong một thư mục cụ thể.&#xa;3.External Task Sensor: Chờ đợi một task trong một DAG khác hoàn thành.&#xa;4.HTTP Sensor: Chờ đợi một phản hồi cụ thể từ một yêu cầu HTTP." style="text;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF9933;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="751" y="2212.5" width="411" height="105" as="geometry" />
+        <mxCell id="2_FuCtmNqweSd63da74F-18" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font color=&quot;#cc0066&quot;&gt;1.Time Sensor&lt;/font&gt;: Chờ đợi một khoảng thời gian cụ thể hoặc đến một thời điểm nhất định.&lt;br/&gt;&lt;br&gt;&lt;font color=&quot;#cc0066&quot;&gt;2.File Sensor&lt;/font&gt;: Chờ đợi sự xuất hiện của một tệp tin trong một thư mục cụ thể.&lt;br/&gt;&lt;br&gt;&lt;font color=&quot;#cc0066&quot;&gt;3.External Task Sensor&lt;/font&gt;: Chờ đợi một task trong một DAG khác hoàn thành.&lt;br/&gt;&lt;br&gt;&lt;font color=&quot;#cc0066&quot;&gt;4.HTTP Sensor&lt;/font&gt;: Chờ đợi một phản hồi cụ thể từ một yêu cầu HTTP.&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF9933;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="751" y="2212.5" width="411" height="132.5" as="geometry" />
         </mxCell>
-        <mxCell id="2_FuCtmNqweSd63da74F-19" value="&lt;div&gt;- poke_interval: Khoảng thời gian giữa các lần kiểm tra điều kiện.&lt;/div&gt;&lt;div&gt;- timeout: Thời gian tối đa để sensor chờ đợi điều kiện xảy ra.&lt;/div&gt;&lt;div&gt;- mode: Sensor có thể chạy ở chế độ poke (kiểm tra liên tục) hoặc reschedule (kiểm tra theo lịch trình).&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF9933;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="2347" width="422" height="76" as="geometry" />
+        <mxCell id="2_FuCtmNqweSd63da74F-19" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;- &lt;font style=&quot;&quot; color=&quot;#cc0066&quot;&gt;poke_interval&lt;/font&gt;: Khoảng thời gian giữa các lần kiểm tra điều kiện.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;- &lt;font style=&quot;&quot; color=&quot;#cc0066&quot;&gt;timeout&lt;/font&gt;: Thời gian tối đa để sensor chờ đợi điều kiện xảy ra.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;- &lt;font style=&quot;&quot; color=&quot;#cc0066&quot;&gt;mode&lt;/font&gt;: Sensor có thể chạy ở chế độ poke (kiểm tra liên tục) hoặc reschedule (kiểm tra theo lịch trình).&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF9933;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="743" y="2366" width="422" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
