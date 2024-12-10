@@ -5724,6 +5724,9 @@
         <mxCell id="QPOw9eLBuXJ1o46-IQb9-12" value="External Trigger" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="207" y="1866" width="143" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="QPOw9eLBuXJ1o46-IQb9-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QPOw9eLBuXJ1o46-IQb9-13" target="QPOw9eLBuXJ1o46-IQb9-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QPOw9eLBuXJ1o46-IQb9-13" value="Conditional Trigger" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200.5" y="1978" width="143" height="80" as="geometry" />
         </mxCell>
@@ -5734,6 +5737,9 @@
               <mxPoint x="179" y="2025" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QPOw9eLBuXJ1o46-IQb9-19" value="&lt;b&gt;BranchPythonOperator &lt;/b&gt;để quyết&lt;br&gt;định task nào sẽ chạy tiếp&lt;br&gt;dựa vào kết quả của task trước đó" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="436" y="1915" width="253" height="206" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
