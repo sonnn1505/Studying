@@ -5457,7 +5457,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QY0qRIsQa8uqua-n6Qb9" name="airflow">
-    <mxGraphModel dx="1173" dy="1180" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="787" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5651,6 +5651,9 @@
         </mxCell>
         <mxCell id="_BbH4GGrl09366TwEeae-5" value="- UI&lt;div&gt;- Manage User&lt;/div&gt;&lt;div&gt;- Manage DAG, TASK...&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="1291.5" width="201" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="_BbH4GGrl09366TwEeae-7" value="worker" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="927" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
