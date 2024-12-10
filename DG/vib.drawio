@@ -5786,6 +5786,9 @@
         <mxCell id="2_FuCtmNqweSd63da74F-12" value="Event-based Triggers" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="578" y="2235" width="135" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2_FuCtmNqweSd63da74F-15" value="sensor" style="text;whiteSpace=wrap;strokeColor=#FF9933;dashed=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="762.0013468070655" y="2234.9960020380436" width="394" height="137" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
