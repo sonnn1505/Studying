@@ -5457,7 +5457,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QY0qRIsQa8uqua-n6Qb9" name="airflow">
-    <mxGraphModel dx="1116" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="893" dy="467" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5788,11 +5788,17 @@
             <mxPoint x="785.4999999999998" y="2265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2_FuCtmNqweSd63da74F-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2_FuCtmNqweSd63da74F-12" target="2_FuCtmNqweSd63da74F-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2_FuCtmNqweSd63da74F-12" value="Event-based Triggers&lt;br&gt;(&lt;b&gt;&lt;font color=&quot;#cc0066&quot;&gt;sensor&lt;/font&gt;&lt;/b&gt;)" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="563" y="2235" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2_FuCtmNqweSd63da74F-18" value="1.Time Sensor: Chờ đợi một khoảng thời gian cụ thể hoặc đến một thời điểm nhất định.&#xa;2.File Sensor: Chờ đợi sự xuất hiện của một tệp tin trong một thư mục cụ thể.&#xa;3.External Task Sensor: Chờ đợi một task trong một DAG khác hoàn thành.&#xa;4.HTTP Sensor: Chờ đợi một phản hồi cụ thể từ một yêu cầu HTTP." style="text;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF9933;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="718" y="2225" width="468" height="80" as="geometry" />
+          <mxGeometry x="751" y="2212.5" width="411" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="2_FuCtmNqweSd63da74F-19" value="&lt;div&gt;- poke_interval: Khoảng thời gian giữa các lần kiểm tra điều kiện.&lt;/div&gt;&lt;div&gt;- timeout: Thời gian tối đa để sensor chờ đợi điều kiện xảy ra.&lt;/div&gt;&lt;div&gt;- mode: Sensor có thể chạy ở chế độ poke (kiểm tra liên tục) hoặc reschedule (kiểm tra theo lịch trình).&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF9933;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="2347" width="422" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
