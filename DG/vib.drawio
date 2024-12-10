@@ -5769,7 +5769,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2_FuCtmNqweSd63da74F-6" value="TriggerDagRunOperator" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="578" y="2107" width="135" height="60" as="geometry" />
+          <mxGeometry x="578" y="2106" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2_FuCtmNqweSd63da74F-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPOw9eLBuXJ1o46-IQb9-22" target="2_FuCtmNqweSd63da74F-6">
           <mxGeometry relative="1" as="geometry">
