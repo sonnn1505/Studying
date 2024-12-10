@@ -5457,7 +5457,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QY0qRIsQa8uqua-n6Qb9" name="airflow">
-    <mxGraphModel dx="2126" dy="1271" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="711" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5744,10 +5744,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QPOw9eLBuXJ1o46-IQb9-19" value="&lt;b&gt;BranchPythonOperator &lt;/b&gt;để quyết&lt;br&gt;định task nào sẽ chạy tiếp&lt;br&gt;dựa vào kết quả của task trước đó" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="2109" width="253" height="206" as="geometry" />
+          <mxGeometry x="380" y="2187" width="253" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="2_FuCtmNqweSd63da74F-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QPOw9eLBuXJ1o46-IQb9-22" target="2_FuCtmNqweSd63da74F-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QPOw9eLBuXJ1o46-IQb9-22" value="Trigger bởi sự kiện bên ngoài như webhook, API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="418" y="1962" width="120.5" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="2_FuCtmNqweSd63da74F-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_FuCtmNqweSd63da74F-1" target="2_FuCtmNqweSd63da74F-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="818.75" y="2025.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_FuCtmNqweSd63da74F-1" value="API" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="578" y="1995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_FuCtmNqweSd63da74F-5" value="curl -X POST http://localhost:8080/api/experimental/dags//dag_runs \&#xa;-H &#39;Cache-Control: no-cache&#39; \&#xa;-H &#39;Content-Type: application/json&#39; \&#xa;-d &#39;{&quot;conf&quot;:&quot;{\&quot;key\&quot;:\&quot;value\&quot;}&quot;}&#39;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737" y="1985" width="393" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2_FuCtmNqweSd63da74F-6" value="TriggerDagRunOperator" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="578" y="2094" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_FuCtmNqweSd63da74F-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPOw9eLBuXJ1o46-IQb9-22" target="2_FuCtmNqweSd63da74F-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="548" y="2036" as="sourcePoint" />
+            <mxPoint x="563" y="2116" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
