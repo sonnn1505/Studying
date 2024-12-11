@@ -5804,7 +5804,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DOCiOR74jG7E-ATw-hmA" name="open metada">
-    <mxGraphModel dx="538" dy="467" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="818" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5858,6 +5858,51 @@
             <mxPoint x="216" y="228" as="sourcePoint" />
             <mxPoint x="359" y="172" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="deVfpkY6bARhrqO4HZTm-19" value="Metadata" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="313" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deVfpkY6bARhrqO4HZTm-20" value="Lineage" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="223" y="414" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deVfpkY6bARhrqO4HZTm-21" value="Policies" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="408" y="394" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deVfpkY6bARhrqO4HZTm-22" value="Task &amp;amp; Activities" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="418" y="275" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deVfpkY6bARhrqO4HZTm-23" value="User &amp;amp; Term" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="408" y="454" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deVfpkY6bARhrqO4HZTm-24" value="Central metadata Respository" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="197" y="624" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deVfpkY6bARhrqO4HZTm-25" value="Data Discovery" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="197" y="696" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deVfpkY6bARhrqO4HZTm-29" value="Tools and features that allow users to search, explore, and understand data assets across the organization" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="696" width="550" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="deVfpkY6bARhrqO4HZTm-30" value="Data Lineage" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="197" y="769" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deVfpkY6bARhrqO4HZTm-31" value="Tracks the flow of data through different systems, providing visibility into data transformations and dependencies" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="771" width="550" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="deVfpkY6bARhrqO4HZTm-32" value="This is the heart of OpenMetadata, where all metadata from various data sources is stored and managed" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="618.5" width="550" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="deVfpkY6bARhrqO4HZTm-33" value="Data Quality" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="197" y="843" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deVfpkY6bARhrqO4HZTm-34" value="Ensures the reliability of data through automated tests and monitoring2.&#xa;Governance: Implements policies and controls to maintain data integrity, security, and compliance" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="848" width="550" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="deVfpkY6bARhrqO4HZTm-35" value="Collaboration" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="197" y="924" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deVfpkY6bARhrqO4HZTm-36" value="Facilitates teamwork by providing features for communication, task management, and shared workflows" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="924" width="550" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
