@@ -5914,7 +5914,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FC_AHGVECKadupjizAdc" name="vector database">
-    <mxGraphModel dx="1838" dy="962" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2238" dy="1005" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6255,6 +6255,12 @@
         </mxCell>
         <mxCell id="qgYBPTPPGKJBzZsqLfiC-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.028;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qgYBPTPPGKJBzZsqLfiC-91" target="qgYBPTPPGKJBzZsqLfiC-98">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qgYBPTPPGKJBzZsqLfiC-107" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Athena DB (2024)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Oracle -23C&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pgvector(2023)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;MongoDB (2023)&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="-37" y="1187" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qgYBPTPPGKJBzZsqLfiC-108" value="Milvus&lt;br&gt;qdrant&lt;br&gt;(-&amp;gt;)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="261" y="1206" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
