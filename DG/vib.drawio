@@ -6257,13 +6257,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qgYBPTPPGKJBzZsqLfiC-107" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Athena DB (2024)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Oracle -23C&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pgvector(2023)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;MongoDB (2023)&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
-          <mxGeometry x="-37" y="1187" width="200" height="200" as="geometry" />
+          <mxGeometry x="-37" y="1187" width="168" height="149" as="geometry" />
         </mxCell>
         <mxCell id="qgYBPTPPGKJBzZsqLfiC-108" value="Milvus&lt;br&gt;qdrant&lt;br&gt;(-&amp;gt;)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
-          <mxGeometry x="261" y="1206" width="200" height="200" as="geometry" />
+          <mxGeometry x="163" y="1183" width="125" height="142" as="geometry" />
         </mxCell>
         <mxCell id="qgYBPTPPGKJBzZsqLfiC-109" value="Tính khoảng cách&lt;div&gt;giữa 2 điểm&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
-          <mxGeometry x="559" y="1218" width="200" height="200" as="geometry" />
+          <mxGeometry x="313" y="1183" width="123" height="142" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
