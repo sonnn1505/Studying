@@ -6271,6 +6271,9 @@
         <mxCell id="qgYBPTPPGKJBzZsqLfiC-110" value="VIB GenAI :&amp;nbsp;&lt;span data-teams=&quot;true&quot;&gt; Cohere-embed-multilingual&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="111" y="1316" width="227" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="qgYBPTPPGKJBzZsqLfiC-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitX=0.703;exitY=0.939;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qgYBPTPPGKJBzZsqLfiC-113" target="qgYBPTPPGKJBzZsqLfiC-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qgYBPTPPGKJBzZsqLfiC-113" value="VIB GenAI :&amp;nbsp;&lt;span data-teams=&quot;true&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span data-teams=&quot;true&quot;&gt;cosine/&amp;nbsp;&lt;/span&gt;&lt;span data-teams=&quot;true&quot;&gt;k-dimensional tree&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="746" y="1316" width="227" height="34" as="geometry" />
         </mxCell>
@@ -6279,6 +6282,15 @@
             <mxPoint x="894" y="1085" as="sourcePoint" />
             <mxPoint x="894" y="1314" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qgYBPTPPGKJBzZsqLfiC-115" value="Gloang" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="756" y="1435" width="83" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="qgYBPTPPGKJBzZsqLfiC-116" value="Python" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="902" y="1435" width="83" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="qgYBPTPPGKJBzZsqLfiC-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.651;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="qgYBPTPPGKJBzZsqLfiC-113" target="qgYBPTPPGKJBzZsqLfiC-115">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
