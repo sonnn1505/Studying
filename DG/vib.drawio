@@ -5914,7 +5914,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FC_AHGVECKadupjizAdc" name="vector database">
-    <mxGraphModel dx="2238" dy="1005" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1838" dy="1005" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6205,6 +6205,9 @@
         <mxCell id="qgYBPTPPGKJBzZsqLfiC-91" value="" style="shape=mxgraph.bpmn.conversation;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;aspect=fixed;bpmnConversationType=conv;" vertex="1" parent="1">
           <mxGeometry x="241" y="988" width="70" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qgYBPTPPGKJBzZsqLfiC-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="qgYBPTPPGKJBzZsqLfiC-92" target="qgYBPTPPGKJBzZsqLfiC-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qgYBPTPPGKJBzZsqLfiC-92" value="User Request Embedding model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="189" y="1055" width="184" height="30" as="geometry" />
         </mxCell>
@@ -6257,13 +6260,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qgYBPTPPGKJBzZsqLfiC-107" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Athena DB (2024)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Oracle -23C&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pgvector(2023)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;MongoDB (2023)&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
-          <mxGeometry x="-37" y="1187" width="168" height="149" as="geometry" />
+          <mxGeometry x="366" y="2519" width="168" height="149" as="geometry" />
         </mxCell>
         <mxCell id="qgYBPTPPGKJBzZsqLfiC-108" value="Milvus&lt;br&gt;qdrant&lt;br&gt;(-&amp;gt;)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
-          <mxGeometry x="163" y="1183" width="125" height="142" as="geometry" />
+          <mxGeometry x="566" y="2515" width="125" height="142" as="geometry" />
         </mxCell>
         <mxCell id="qgYBPTPPGKJBzZsqLfiC-109" value="Tính khoảng cách&lt;div&gt;giữa 2 điểm&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
-          <mxGeometry x="313" y="1183" width="123" height="142" as="geometry" />
+          <mxGeometry x="716" y="2515" width="111" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="qgYBPTPPGKJBzZsqLfiC-110" value="VIB GenAI :&amp;nbsp;&lt;span data-teams=&quot;true&quot;&gt; Cohere-embed-multilingual&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="111" y="1337" width="227" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
