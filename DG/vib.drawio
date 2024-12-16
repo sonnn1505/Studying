@@ -4980,6 +4980,24 @@
         <mxCell id="hZxr8RfUnO7vWnqNJVeA-3" value="&lt;span style=&quot;color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;&quot;&gt;Publish and subscribe workﬂows&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="175" y="1673" width="225" height="69" as="geometry" />
         </mxCell>
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZxr8RfUnO7vWnqNJVeA-4" target="hZxr8RfUnO7vWnqNJVeA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hZxr8RfUnO7vWnqNJVeA-4" target="hZxr8RfUnO7vWnqNJVeA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-4" value="&lt;span style=&quot;color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;&quot;&gt;Projects and environments&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1806" width="225" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-5" value="&lt;span style=&quot;color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;&quot;&gt;Data portal&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1920" width="225" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="1782" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="1878" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
