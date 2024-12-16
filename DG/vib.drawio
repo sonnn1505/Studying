@@ -4084,7 +4084,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Data Catalog" id="OViT05IHD1wiAkNRz_9T">
-    <mxGraphModel dx="4076" dy="1887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2697" dy="1261" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4974,8 +4974,8 @@
         <mxCell id="N2Y7-F65F7oPPxZ0m-aT-35" value="&lt;span style=&quot;font-family: &amp;quot;Myriad Pro&amp;quot;; font-size: 14.6667px; text-align: left; white-space-collapse: preserve;&quot;&gt;Managing who has access to data and how it is protected&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="3vbKcB4PtiJEmyZH-Mvt-1" vertex="1">
           <mxGeometry x="153" y="811" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hZxr8RfUnO7vWnqNJVeA-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="133" y="2160" width="100" height="60" as="geometry" />
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-2" value="&lt;span style=&quot;color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;&quot;&gt;Business data catalog&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1525" width="184" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
