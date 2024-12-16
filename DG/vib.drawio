@@ -4084,7 +4084,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Data Catalog" id="OViT05IHD1wiAkNRz_9T">
-    <mxGraphModel dx="2753" dy="1423" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1916" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4980,10 +4980,10 @@
         <mxCell id="hZxr8RfUnO7vWnqNJVeA-3" value="&lt;span style=&quot;color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;&quot;&gt;Publish and subscribe workﬂows&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="167.5" y="1673" width="225" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="hZxr8RfUnO7vWnqNJVeA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZxr8RfUnO7vWnqNJVeA-4" target="hZxr8RfUnO7vWnqNJVeA-6">
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="hZxr8RfUnO7vWnqNJVeA-4" target="hZxr8RfUnO7vWnqNJVeA-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hZxr8RfUnO7vWnqNJVeA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hZxr8RfUnO7vWnqNJVeA-4" target="hZxr8RfUnO7vWnqNJVeA-8">
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="hZxr8RfUnO7vWnqNJVeA-4" target="hZxr8RfUnO7vWnqNJVeA-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hZxr8RfUnO7vWnqNJVeA-4" value="&lt;span style=&quot;color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;&quot;&gt;Projects and environments&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
