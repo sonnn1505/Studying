@@ -4084,7 +4084,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Data Catalog" id="OViT05IHD1wiAkNRz_9T">
-    <mxGraphModel dx="2362" dy="1218" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="964" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5023,6 +5023,33 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-85" y="1782" as="sourcePoint" />
             <mxPoint x="178" y="1844" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="hZxr8RfUnO7vWnqNJVeA-20" target="hZxr8RfUnO7vWnqNJVeA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-20" value="&lt;h2 style=&quot;position: relative; color: rgb(15, 20, 26); line-height: 1.226em; margin-bottom: 0.75em; margin-top: 1em; padding: 1em 0px 0px; scroll-margin-top: 100px; font-family: &amp;quot;Amazon Ember&amp;quot;, Helvetica, Arial, sans-serif;&quot; id=&quot;what-are-domains&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Amazon DataZone domains&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="2086" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-21" value="&lt;span style=&quot;color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;assets&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=1;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="2086" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-23" value="&lt;span style=&quot;color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;users&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=1;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="2180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-24" value="&lt;span style=&quot;color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;their projects&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=1;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="2270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hZxr8RfUnO7vWnqNJVeA-20" target="hZxr8RfUnO7vWnqNJVeA-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-85" y="2126" as="sourcePoint" />
+            <mxPoint x="-5" y="2126" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hZxr8RfUnO7vWnqNJVeA-20" target="hZxr8RfUnO7vWnqNJVeA-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-85" y="2126" as="sourcePoint" />
+            <mxPoint x="-5" y="2220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
