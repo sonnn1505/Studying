@@ -4975,7 +4975,10 @@
           <mxGeometry x="153" y="811" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hZxr8RfUnO7vWnqNJVeA-2" value="&lt;span style=&quot;color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;&quot;&gt;Business data catalog&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="175" y="1525" width="184" height="69" as="geometry" />
+          <mxGeometry x="167.5" y="1534" width="240" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="hZxr8RfUnO7vWnqNJVeA-3" value="&lt;span style=&quot;color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;&quot;&gt;Publish and subscribe workﬂows&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1673" width="225" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
