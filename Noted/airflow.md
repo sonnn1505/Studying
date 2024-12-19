@@ -16,20 +16,20 @@
 		 airflow dags list
 		 airflow providers list
 	
-	Start :
+## Start :
 		airflow webserver -p 8080 -D
 		airflow scheduler -D
-		(nếu không start được scheduler in background :
-		 cd $AIRFLOW_HOME
-		 ls -l
-		 rm airflow-scheduler.err
-		airflow scheduler -D
-	           )
+		(nếu không start được scheduler in background * :
+			 cd $AIRFLOW_HOME
+		 	  ls -l
+		 		rm airflow-scheduler.err
+				airflow scheduler -D
+	        )
 	
 		KILL ALL process:
 		
 		lsof -t -i:8080 | xargs kill -9
-	postgresql: 
+## postgresql: 
 	
 		Cài đặt tho document của hãng:
 		https://www.postgresql.org/docs/devel/install-make.html
@@ -56,7 +56,7 @@
 		list all table : \dt
 		quit : \q
 		
-		-->tìm file config:
+## -->tìm file config:
 		
 		sudo find / -name pg\*.conf
 		vi /usr/local/pgsql/data/postgresql.conf
@@ -68,4 +68,4 @@
 			□ :wq – saves the changes, and exits Vim
 			□ :x – save the changes made, and exits Vim
 			□ i - insert
-chỉnh remote connection: https://o7planning.org/12255/configure-postgresql-to-allow-remote-connections![image](https://github.com/user-attachments/assets/7be6e3e5-c047-49c5-ac6f-e73dfa29b614)
+## chỉnh remote connection: https://o7planning.org/12255/configure-postgresql-to-allow-remote-connections![image](https://github.com/user-attachments/assets/7be6e3e5-c047-49c5-ac6f-e73dfa29b614)
