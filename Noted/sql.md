@@ -22,7 +22,7 @@
           - range:
           - ref: 
           - index: chỉ mục phụ đang sử dụng
-      => tuyệt chiêu sắp xếp INDEX : 
+      => Tuyệt chiêu sắp xếp INDEX : 
           - Trường nào giống nhau nhiều về giá trị không nên dùng index
           - Công thức đặt trường nào bên trái, trường nào bên phải.
             Select
