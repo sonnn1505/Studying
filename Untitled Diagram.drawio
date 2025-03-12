@@ -252,7 +252,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fQKvmWDrZoek-CLV3Tsd-51" value="transaction_amount" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="fQKvmWDrZoek-CLV3Tsd-49">
+        <mxCell id="fQKvmWDrZoek-CLV3Tsd-51" value="voucher_price_amount" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="fQKvmWDrZoek-CLV3Tsd-49">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -265,7 +265,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fQKvmWDrZoek-CLV3Tsd-54" value="discount_amount" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="fQKvmWDrZoek-CLV3Tsd-52">
+        <mxCell id="fQKvmWDrZoek-CLV3Tsd-54" value="voucher_buy_time_key" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="fQKvmWDrZoek-CLV3Tsd-52">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -814,6 +814,12 @@
         </mxCell>
         <mxCell id="fQKvmWDrZoek-CLV3Tsd-142" value="&lt;b&gt;campaigns:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;voucher_code_type:&lt;/i&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;color: rgb(36, 36, 36); font-family: &amp;quot;Cascadia Mono&amp;quot;, Consolas, ui-monospace, Menlo, Monaco, monospace; font-size: 14px; white-space: pre;&quot;&gt;&amp;nbsp;FIXED_CODE(&quot;F&quot;)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(36, 36, 36); font-family: &amp;quot;Cascadia Mono&amp;quot;, Consolas, ui-monospace, Menlo, Monaco, monospace; font-size: 14px; white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Mã chung&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(36, 36, 36); font-family: &amp;quot;Cascadia Mono&amp;quot;, Consolas, ui-monospace, Menlo, Monaco, monospace; font-size: 14px; white-space: pre;&quot;&gt;,RANDOM_CODE(&quot;R&quot;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cascadia Mono, Consolas, ui-monospace, Menlo, Monaco, monospace&quot; color=&quot;#242424&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;mã random&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;i&gt;voucher_type:&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(36, 36, 36); font-family: &amp;quot;Cascadia Mono&amp;quot;, Consolas, ui-monospace, Menlo, Monaco, monospace; font-size: 14px; white-space: pre;&quot;&gt;&amp;nbsp;PRIVATE(&quot;V&quot;)phát riêng cho từng khách hàng&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(36, 36, 36); font-family: &amp;quot;Cascadia Mono&amp;quot;, Consolas, ui-monospace, Menlo, Monaco, monospace; font-size: 14px; white-space: pre;&quot;&gt; PUBLIC(&quot;P&quot;) phát công khai&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="311" y="-231" width="422" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="fQKvmWDrZoek-CLV3Tsd-146" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;strokeColor=default;curved=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mG3RWT_7X9QC6i3Jgm54-7" target="fQKvmWDrZoek-CLV3Tsd-52">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="639" y="485" as="sourcePoint" />
+            <mxPoint x="514" y="735" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
