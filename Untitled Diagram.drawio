@@ -771,6 +771,30 @@
             <mxPoint x="373" y="497" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fQKvmWDrZoek-CLV3Tsd-132" value="search_voucher_issuance_status" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="708" y="1119" width="273" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="fQKvmWDrZoek-CLV3Tsd-133" value="Item 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="fQKvmWDrZoek-CLV3Tsd-132">
+          <mxGeometry y="26" width="273" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQKvmWDrZoek-CLV3Tsd-134" value="Item 2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="fQKvmWDrZoek-CLV3Tsd-132">
+          <mxGeometry y="56" width="273" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQKvmWDrZoek-CLV3Tsd-135" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="fQKvmWDrZoek-CLV3Tsd-132">
+          <mxGeometry y="86" width="273" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQKvmWDrZoek-CLV3Tsd-136" value="search_voucher_usage_status" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="708" y="1290" width="273" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="fQKvmWDrZoek-CLV3Tsd-137" value="Item 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="fQKvmWDrZoek-CLV3Tsd-136">
+          <mxGeometry y="26" width="273" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQKvmWDrZoek-CLV3Tsd-138" value="Item 2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="fQKvmWDrZoek-CLV3Tsd-136">
+          <mxGeometry y="56" width="273" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQKvmWDrZoek-CLV3Tsd-139" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="fQKvmWDrZoek-CLV3Tsd-136">
+          <mxGeometry y="86" width="273" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
