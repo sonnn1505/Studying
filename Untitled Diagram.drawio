@@ -1456,8 +1456,23 @@
         <mxCell id="HzuOq9LIWmPi7VOBRSRu-6" value="Đẩy thông tin sang PNL đã thiết lập" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-266" y="1999" width="226" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="HzuOq9LIWmPi7VOBRSRu-13" value="Vinclub" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-129" y="2151" width="60" height="30" as="geometry" />
+        <mxCell id="HzuOq9LIWmPi7VOBRSRu-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#BDBDBD;dashed=1;" edge="1" parent="1" source="HzuOq9LIWmPi7VOBRSRu-15" target="HzuOq9LIWmPi7VOBRSRu-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="1856" as="sourcePoint" />
+            <mxPoint x="-130" y="1806" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HzuOq9LIWmPi7VOBRSRu-15" value="CMS setting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#BDBDBD;" vertex="1" parent="1">
+          <mxGeometry x="-378" y="1799" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HzuOq9LIWmPi7VOBRSRu-16" value="App VinClub" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#BDBDBD;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1799" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HzuOq9LIWmPi7VOBRSRu-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#BDBDBD;dashed=1;" edge="1" parent="1" source="HzuOq9LIWmPi7VOBRSRu-16" target="HzuOq9LIWmPi7VOBRSRu-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-308" y="1869" as="sourcePoint" />
+            <mxPoint x="-309" y="2117" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
