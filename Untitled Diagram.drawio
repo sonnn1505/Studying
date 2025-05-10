@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="jYxQsDxRD-8A5V3A2scU">
-    <mxGraphModel dx="1680" dy="971" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1428" dy="2025" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,19 +148,155 @@
             <mxPoint x="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-71" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="39" y="576" width="641" height="382" as="geometry" />
+        <mxCell id="HJKBNOG1gQndoPXstNbw-72" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="18" y="-839" width="641" height="382" as="geometry" />
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-71" target="HJKBNOG1gQndoPXstNbw-45">
+        <mxCell id="HJKBNOG1gQndoPXstNbw-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72" target="HJKBNOG1gQndoPXstNbw-80">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="181" y="66" as="targetPoint" />
             <mxPoint x="101" y="66" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-39" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-71">
+        <mxCell id="HJKBNOG1gQndoPXstNbw-74" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-72">
           <mxGeometry x="50" y="38" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-71" source="HJKBNOG1gQndoPXstNbw-45" target="HJKBNOG1gQndoPXstNbw-53">
+        <mxCell id="HJKBNOG1gQndoPXstNbw-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72" source="HJKBNOG1gQndoPXstNbw-80" target="HJKBNOG1gQndoPXstNbw-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-76" value="Yêu cầu tiêu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJKBNOG1gQndoPXstNbw-75">
+          <mxGeometry x="-0.2667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72" source="HJKBNOG1gQndoPXstNbw-80" target="HJKBNOG1gQndoPXstNbw-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF3333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72" source="HJKBNOG1gQndoPXstNbw-80" target="HJKBNOG1gQndoPXstNbw-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-79" value="X" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="HJKBNOG1gQndoPXstNbw-78">
+          <mxGeometry x="0.2035" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-80" value="Giao dịch ti&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;êu&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry x="181" y="36" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-81" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1" y="2" as="sourcePoint" />
+            <mxPoint x="641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-82" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="214" as="sourcePoint" />
+            <mxPoint x="639" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-83" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1" y="380" as="sourcePoint" />
+            <mxPoint x="640" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-84" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1" y="382" as="sourcePoint" />
+            <mxPoint x="1" y="2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="41" y="379" as="sourcePoint" />
+            <mxPoint x="41" y="2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-86" value="GSM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry x="-4" y="70" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-87" value="VinClub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry x="-12" y="255" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-88" value="Giao dịch tiêu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry x="181" y="234" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72" source="HJKBNOG1gQndoPXstNbw-91" target="HJKBNOG1gQndoPXstNbw-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-91" value="Giao dịch hoàn ti&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;êu&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry x="439" y="36" width="86" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-92" value="Giao dịch hoàn tiêu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry x="436.5" y="237" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-93" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="391" y="376" as="sourcePoint" />
+            <mxPoint x="389" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-94" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2" y="22" as="sourcePoint" />
+            <mxPoint x="640" y="22" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-95" value="2025/05/01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="HJKBNOG1gQndoPXstNbw-94">
+          <mxGeometry x="-0.4667" y="3" relative="1" as="geometry">
+            <mxPoint x="50" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-96" value="2025/05/02" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="HJKBNOG1gQndoPXstNbw-94">
+          <mxGeometry x="0.3033" y="3" relative="1" as="geometry">
+            <mxPoint x="73" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-97" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry x="211" y="327" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.3;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72" source="HJKBNOG1gQndoPXstNbw-88" target="HJKBNOG1gQndoPXstNbw-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-99" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry x="460" y="327" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.42;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72" source="HJKBNOG1gQndoPXstNbw-92" target="HJKBNOG1gQndoPXstNbw-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-101" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry x="310" y="135" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-105" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="380" as="sourcePoint" />
+            <mxPoint x="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-72" source="HJKBNOG1gQndoPXstNbw-106" target="HJKBNOG1gQndoPXstNbw-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-113" value="Hoàn Thành" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="HJKBNOG1gQndoPXstNbw-112">
+          <mxGeometry x="-0.2008" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-106" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;yêu cầu hoàn tiêu&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry x="441.5" y="111" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-108" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-72">
+          <mxGeometry x="582" y="138.5" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="HJKBNOG1gQndoPXstNbw-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="201" y="-372" as="targetPoint" />
+            <mxPoint x="121" y="-372" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-39" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-400" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HJKBNOG1gQndoPXstNbw-45" target="HJKBNOG1gQndoPXstNbw-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HJKBNOG1gQndoPXstNbw-41" value="Yêu cầu tiêu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJKBNOG1gQndoPXstNbw-40">
@@ -168,10 +304,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="HJKBNOG1gQndoPXstNbw-71" source="HJKBNOG1gQndoPXstNbw-45" target="HJKBNOG1gQndoPXstNbw-56">
+        <mxCell id="HJKBNOG1gQndoPXstNbw-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HJKBNOG1gQndoPXstNbw-45" target="HJKBNOG1gQndoPXstNbw-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF3333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-71" source="HJKBNOG1gQndoPXstNbw-45" target="HJKBNOG1gQndoPXstNbw-66">
+        <mxCell id="HJKBNOG1gQndoPXstNbw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF3333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HJKBNOG1gQndoPXstNbw-45" target="HJKBNOG1gQndoPXstNbw-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HJKBNOG1gQndoPXstNbw-44" value="X" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="HJKBNOG1gQndoPXstNbw-43">
@@ -179,86 +315,132 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-45" value="Giao dịch ti&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;êu&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-71">
-          <mxGeometry x="181" y="36" width="90" height="60" as="geometry" />
+        <mxCell id="HJKBNOG1gQndoPXstNbw-45" value="Giao dịch ti&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;êu&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="-402" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-71">
+        <mxCell id="HJKBNOG1gQndoPXstNbw-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1" y="2" as="sourcePoint" />
-            <mxPoint x="641" as="targetPoint" />
+            <mxPoint x="21" y="-436" as="sourcePoint" />
+            <mxPoint x="968" y="-436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-71">
+        <mxCell id="HJKBNOG1gQndoPXstNbw-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="214" as="sourcePoint" />
-            <mxPoint x="639" y="214" as="targetPoint" />
+            <mxPoint x="20" y="-224" as="sourcePoint" />
+            <mxPoint x="968" y="-224" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-71">
+        <mxCell id="HJKBNOG1gQndoPXstNbw-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1" y="380" as="sourcePoint" />
-            <mxPoint x="640" y="380" as="targetPoint" />
+            <mxPoint x="21" y="-58" as="sourcePoint" />
+            <mxPoint x="968" y="-58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-71">
+        <mxCell id="HJKBNOG1gQndoPXstNbw-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1" y="382" as="sourcePoint" />
-            <mxPoint x="1" y="2" as="targetPoint" />
+            <mxPoint x="21" y="-56" as="sourcePoint" />
+            <mxPoint x="21" y="-436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-71">
+        <mxCell id="HJKBNOG1gQndoPXstNbw-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="41" y="379" as="sourcePoint" />
-            <mxPoint x="41" y="2" as="targetPoint" />
+            <mxPoint x="61" y="-59" as="sourcePoint" />
+            <mxPoint x="61" y="-436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-51" value="GSM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-71">
-          <mxGeometry x="-4" y="88" width="50" height="30" as="geometry" />
+        <mxCell id="HJKBNOG1gQndoPXstNbw-51" value="GSM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="16" y="-350" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-52" value="VinClub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-71">
-          <mxGeometry x="-12" y="255" width="70" height="30" as="geometry" />
+        <mxCell id="HJKBNOG1gQndoPXstNbw-52" value="VinClub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="8" y="-183" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-53" value="Giao dịch tiêu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-71">
-          <mxGeometry x="181" y="234" width="90" height="60" as="geometry" />
+        <mxCell id="HJKBNOG1gQndoPXstNbw-53" value="Giao dịch tiêu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="-204" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-56" value="Chưa Hoàn Thành" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-71">
-          <mxGeometry x="456" y="36" width="95" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-58" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-71">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="391" y="376" as="sourcePoint" />
-            <mxPoint x="389" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-59" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-71">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2" y="22" as="sourcePoint" />
-            <mxPoint x="640" y="22" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-60" value="Day T" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="HJKBNOG1gQndoPXstNbw-59">
-          <mxGeometry x="-0.4667" y="3" relative="1" as="geometry">
-            <mxPoint x="55" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-61" value="Day T +1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="HJKBNOG1gQndoPXstNbw-59">
-          <mxGeometry x="0.3033" y="3" relative="1" as="geometry">
-            <mxPoint x="78" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-62" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-71">
-          <mxGeometry x="211" y="327" width="50" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.3;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-71" source="HJKBNOG1gQndoPXstNbw-53" target="HJKBNOG1gQndoPXstNbw-62">
+        <mxCell id="HJKBNOG1gQndoPXstNbw-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HJKBNOG1gQndoPXstNbw-56" target="HJKBNOG1gQndoPXstNbw-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-66" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="HJKBNOG1gQndoPXstNbw-71">
-          <mxGeometry x="310" y="135" width="50" height="25" as="geometry" />
+        <mxCell id="HJKBNOG1gQndoPXstNbw-56" value="Chưa Hoàn Thành" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476" y="-402" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HJKBNOG1gQndoPXstNbw-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HJKBNOG1gQndoPXstNbw-71">
+        <mxCell id="HJKBNOG1gQndoPXstNbw-58" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="380" as="sourcePoint" />
-            <mxPoint x="640" as="targetPoint" />
+            <mxPoint x="411" y="-62" as="sourcePoint" />
+            <mxPoint x="409" y="-438" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-59" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="22" y="-416" as="sourcePoint" />
+            <mxPoint x="968" y="-416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-60" value="2025/05/01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="HJKBNOG1gQndoPXstNbw-59">
+          <mxGeometry x="-0.4667" y="3" relative="1" as="geometry">
+            <mxPoint x="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-61" value="2025/05/02" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="HJKBNOG1gQndoPXstNbw-59">
+          <mxGeometry x="0.3033" y="3" relative="1" as="geometry">
+            <mxPoint x="-116" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-117" value="2025/02/03" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="HJKBNOG1gQndoPXstNbw-59">
+          <mxGeometry x="0.7162" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-62" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="1">
+          <mxGeometry x="231" y="-111" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.3;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HJKBNOG1gQndoPXstNbw-53" target="HJKBNOG1gQndoPXstNbw-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-66" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-303" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-116" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="968" y="-57" as="sourcePoint" />
+            <mxPoint x="968" y="-438" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HJKBNOG1gQndoPXstNbw-118" target="HJKBNOG1gQndoPXstNbw-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-118" value="Giao dịch tiêu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732" y="-402" width="95" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-120" value="Giao dịch tiêu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="734.5" y="-204" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-121" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="1">
+          <mxGeometry x="754.5" y="-111" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HJKBNOG1gQndoPXstNbw-120" target="HJKBNOG1gQndoPXstNbw-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HJKBNOG1gQndoPXstNbw-123" target="HJKBNOG1gQndoPXstNbw-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-123" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;yêu cầu tiêu&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="739.5" y="-312" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-124" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="1">
+          <mxGeometry x="903" y="-284.5" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.04;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HJKBNOG1gQndoPXstNbw-123" target="HJKBNOG1gQndoPXstNbw-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-126" value="Hoàn thành" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="HJKBNOG1gQndoPXstNbw-125">
+          <mxGeometry x="-0.1938" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJKBNOG1gQndoPXstNbw-129" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="659" y="-55" as="sourcePoint" />
+            <mxPoint x="659" y="-440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
